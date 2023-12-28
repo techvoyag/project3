@@ -7,6 +7,8 @@ import mlflow.sklearn
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import GridSearchCV
 from sklearn.metrics import mean_squared_error
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.metrics import mean_squared_error
 
 
 # Load data
@@ -38,10 +40,6 @@ X_processed = preprocessor.fit_transform(X)
 
 # Split the data into training and validation sets
 X_train, X_val, y_train, y_val = train_test_split(X_processed, y, test_size=0.2, random_state=42)
-
-from sklearn.ensemble import RandomForestRegressor
-from sklearn.metrics import mean_squared_error
-
 # Initialize the model
 
 model = RandomForestRegressor(random_state=42, n_estimators=100, max_depth=10)
