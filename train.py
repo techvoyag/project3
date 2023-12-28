@@ -43,7 +43,8 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error
 
 # Initialize the model
-model = RandomForestRegressor(random_state=42)
+
+model = RandomForestRegressor(random_state=42, n_estimators=100, max_depth=10)
 
 # Train the model
 model.fit(X_train, y_train)
@@ -54,16 +55,14 @@ mse = mean_squared_error(y_val, predictions)
 print(f'Mean Squared Error: {mse}')
 
 
-
-# Define parameter grid
+# Define a smaller parameter grid
 param_grid = {
-    'n_estimators': [100, 200, 300],
-    'max_depth': [10, 20, 30],
-    # Add more parameters here
+    'n_estimators': [50, 100],
+    'max_depth': [5, 10]
 }
 
-# Initialize Grid Search
-grid_search = GridSearchCV(estimator=model, param_grid=param_grid, cv=3, n_jobs=-1, verbose=2)
+# Initialize Grid Search with fewer cross-validation folds and limited parallel jobs
+grid_search = GridSearchCV(estimator=model, param_grid=param_grid, cv=2, n_jobs=2, verbose=2)
 
 # Perform grid search
 grid_search.fit(X_train, y_train)
