@@ -30,9 +30,9 @@ jobs:
       env:
         GDRIVE_SERVICE_ACCOUNT: ${{ secrets.GDRIVE_SERVICE_ACCOUNT }}
       run: |
+        echo "$GDRIVE_SERVICE_ACCOUNT" > gdrive_service_account.json
         dvc remote modify myremote gdrive_use_service_account true
-        dvc remote modify myremote --local \
-        gdrive_service_account_json_file_path mlops-secret.json
+        dvc remote modify myremote --local gdrive_service_account_json_file_path gdrive_service_account.json
         dvc pull data/dummy_sensor_data.csv.dvc
 
     - name: Generate and Append New Data
