@@ -25,9 +25,9 @@ metric_name = "mse"  # Replace with your metric name
 
 best_run = get_best_run(experiment_id, metric_name, smaller_is_better=True)
 best_run_id = best_run.info.run_id
-# model = mlflow.sklearn.load_model(f"runs:/{best_run_id}/best_model")
+#model = mlflow.sklearn.load_model(f"runs:/{best_run_id}/best_model")
 # Assuming the model is in the 'models' subdirectory within the mounted volume
-model_path = f"/app/models/{best_run_id}/best_model"
+model_path = f"/app/models/0/{best_run_id}/artifacts/best_model"
 model = mlflow.sklearn.load_model(model_path)
 
 # Sample data for prediction
@@ -79,4 +79,5 @@ def predict():
         return jsonify({'error': str(e)})
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, host='0.0.0.0')
+
