@@ -9,7 +9,7 @@ from sklearn.model_selection import GridSearchCV
 from sklearn.metrics import mean_squared_error
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error
-
+import joblib
 
 # Load data
 data = pd.read_csv('data/dummy_sensor_data.csv')  # Replace with your file path
@@ -80,7 +80,11 @@ with mlflow.start_run() as run:
     # Log the best model
     #mlflow.sklearn.log_model(best_model, "best_model")
     # Log the best model
-    mlflow.sklearn.log_model(best_model, "model/best_model")
+    #mlflow.sklearn.log_model(best_model, "model/best_model")
+    # Save the best model using joblib
+    
+    model_filename = 'model/random_forest_model.joblib'
+    joblib.dump(best_model, model_filename)
 
 
     # Print the run ID
