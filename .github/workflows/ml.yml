@@ -26,7 +26,7 @@ jobs:
           pip install dvc
           dvc remote modify myremote gdrive_use_service_account true
           dvc remote modify myremote --local \
-            gdrive_service_account_json_file_path mlops-secret.json
+            gdrive_service_account_json_file_path mlops-secret2.json
       - name: Install Dependencies
         run: |
           pip install -r requirements.txt
@@ -64,7 +64,7 @@ jobs:
           git push origin main
 
 
-          
+
 # name: Update Data with DVC
 
 # on:
