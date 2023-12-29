@@ -1,0 +1,55 @@
+name: DVC Data Pipeline Workflow
+
+on:
+  schedule:
+    - cron: '0 */24 * * *'  # Runs every 4 hours, adjust as needed
+
+jobs:
+  generate-and-push-data:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.11.5'  # Replace with your specific Python version
+
+    - name: Install Dependencies
+      run: |
+        pip install -r requirements.txt  # Replace with your actual command to install dependencies
+
+    - name: Generate Data
+      run: python data\random_data.py  # Replace with the path to your Python script
+
+    - name: Install DVC
+      run: |
+        pip install dvc
+        dvc pull
+        dvc remote add -d myremote gdrive://1jTvclz9uSfpurxfigCeqD76XLvPNPjtC
+        echo "$GDRIVE_SERVICE_ACCOUNT" > myserviceaccount.json
+        dvc remote modify myremote gdrive_service_account_json_file_path myserviceaccount.json
+
+    - name: Add Data to DVC
+      run: |
+        dvc add data/dataset.csv  # Replace with the path to your data file
+
+    - name: Commit Data to Git
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/dataset.csv.dvc data/.gitignore
+        git commit -m "Update dataset"
+
+    - name: Push Data to DVC Remote
+      run: dvc push
+
+    - name: Push Changes to GitHub
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: 'main'  # Replace with your branch name if different
+      env:
+        GDRIVE_SERVICE_ACCOUNT: ${{ secrets.GDRIVE_SERVICE_ACCOUNT }}
