@@ -1,0 +1,25 @@
+name: Generate docker image and push to docker hub
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *'  # Runs at 00:00 UTC every day
+jobs:
+  run:
+    permissions: write-all
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: login to docker hub
+        run: docker login -u ${{ secrets.DOCKER_USERNAME }} -p ${{ secrets.DOCKER_PASSWORD }}
+
+      - name: build docker image
+        run: docker build -t project .
+
+      - name: push docker image
+        run: 
+          docker tag project ${{ secrets.DOCKER_USERNAME }}/project
+          docker push ${{ secrets.DOCKER_USERNAME }}/project
