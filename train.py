@@ -78,7 +78,10 @@ with mlflow.start_run() as run:
     mlflow.log_metric("best_mse", best_mse)
 
     # Log the best model
-    mlflow.sklearn.log_model(best_model, "best_model")
+    #mlflow.sklearn.log_model(best_model, "best_model")
+    # Log the best model
+    mlflow.sklearn.log_model(best_model, "model/best_model")
+
 
     # Print the run ID
     print("MLflow Run ID:", run.info.run_id)
