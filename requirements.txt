@@ -1,5 +1,5 @@
 pandas
-sklearn
+scikit-learn
 mlflow
 dvc
 dvc_gdrive
