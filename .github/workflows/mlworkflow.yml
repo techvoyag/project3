@@ -24,7 +24,7 @@ jobs:
     - name: Install Python Dependencies
       run: |
         pip install pandas numpy
-        pip install dvc
+        pip install dvc dvc_gdrive
 
     - name: Authenticate DVC with Remote Storage
       env:
