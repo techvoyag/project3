@@ -45,6 +45,8 @@ jobs:
     
       - name: DVC Add
         run: |
+          git config --global user.email "mohammadaosaf@gmail.com.com"
+          git config --global user.name "Mohammad Aosaf"
           git rm -r --cached 'model/random_forest_model.joblib'
           git commit -m "stop tracking model/random_forest_model.joblib"
           dvc add data/dummy_sensor_data.csv model/random_forest_model.joblib
