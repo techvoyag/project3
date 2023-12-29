@@ -1,25 +1,23 @@
-name: Generate docker image and push to docker hub
+name: CI/CD
 
 on:
   push:
     branches:
       - main
-  schedule:
-    - cron: '0 0 * * *'  # Runs at 00:00 UTC every day
+
 jobs:
-  run:
-    permissions: write-all
+  build:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Checkout Code
+      uses: actions/checkout@v2
 
-      - name: login to docker hub
-        run: docker login -u ${{ secrets.DOCKER_USERNAME }} -p ${{ secrets.DOCKER_PASSWORD }}
+    - name: Build Docker Image
+      run: docker build -t techvoyag/project .
 
-      - name: build docker image
-        run: docker build -t project .
+    - name: Login to DockerHub
+      run: docker login -u ${{ secrets.DOCKERHUB_USERNAME }} -p ${{ secrets.DOCKERHUB_PASSWORD }}
 
-      - name: push docker image
-        run: 
-          docker tag project ${{ secrets.DOCKER_USERNAME }}/project
-          docker push ${{ secrets.DOCKER_USERNAME }}/project
+    - name: Push Docker Image to DockerHub
+      run: docker push techvoyag/project
