@@ -1,4 +1,3 @@
-schema: '2.0'
 stages:
   get_data:
     cmd: python random_data.py
