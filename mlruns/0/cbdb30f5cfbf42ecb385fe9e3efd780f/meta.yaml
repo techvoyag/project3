@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/cbdb30f5cfbf42ecb385fe9e3efd780f/artifacts
+end_time: 1703948272736
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cbdb30f5cfbf42ecb385fe9e3efd780f
+run_name: inquisitive-ape-74
+run_uuid: cbdb30f5cfbf42ecb385fe9e3efd780f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703948272715
+status: 3
+tags: []
+user_id: runner
