@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/8e7c140d173140de8d5f89c36566f473/artifacts
+end_time: 1703984402966
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e7c140d173140de8d5f89c36566f473
+run_name: bittersweet-hog-740
+run_uuid: 8e7c140d173140de8d5f89c36566f473
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703984402945
+status: 3
+tags: []
+user_id: runner
