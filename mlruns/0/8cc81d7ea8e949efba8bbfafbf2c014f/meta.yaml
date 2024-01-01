@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/8cc81d7ea8e949efba8bbfafbf2c014f/artifacts
+end_time: 1704070894486
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8cc81d7ea8e949efba8bbfafbf2c014f
+run_name: delicate-mule-784
+run_uuid: 8cc81d7ea8e949efba8bbfafbf2c014f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704070894465
+status: 3
+tags: []
+user_id: runner
