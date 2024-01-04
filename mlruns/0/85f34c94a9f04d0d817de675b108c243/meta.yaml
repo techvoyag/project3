@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/85f34c94a9f04d0d817de675b108c243/artifacts
+end_time: 1704329796637
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85f34c94a9f04d0d817de675b108c243
+run_name: casual-turtle-226
+run_uuid: 85f34c94a9f04d0d817de675b108c243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704329796616
+status: 3
+tags: []
+user_id: runner
