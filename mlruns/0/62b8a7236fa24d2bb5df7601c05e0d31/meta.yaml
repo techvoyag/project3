@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/62b8a7236fa24d2bb5df7601c05e0d31/artifacts
+end_time: 1704416207230
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62b8a7236fa24d2bb5df7601c05e0d31
+run_name: unruly-ape-213
+run_uuid: 62b8a7236fa24d2bb5df7601c05e0d31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704416207209
+status: 3
+tags: []
+user_id: runner
