@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/e8580cad8e30468db849de7c1eec234f/artifacts
+end_time: 1704502549125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8580cad8e30468db849de7c1eec234f
+run_name: luminous-grub-676
+run_uuid: e8580cad8e30468db849de7c1eec234f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704502549103
+status: 3
+tags: []
+user_id: runner
