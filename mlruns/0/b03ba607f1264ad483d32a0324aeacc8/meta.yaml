@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/b03ba607f1264ad483d32a0324aeacc8/artifacts
+end_time: 1704934659433
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b03ba607f1264ad483d32a0324aeacc8
+run_name: funny-whale-960
+run_uuid: b03ba607f1264ad483d32a0324aeacc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704934659412
+status: 3
+tags: []
+user_id: runner
