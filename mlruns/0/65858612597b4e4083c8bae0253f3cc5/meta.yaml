@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/65858612597b4e4083c8bae0253f3cc5/artifacts
+end_time: 1705021085584
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65858612597b4e4083c8bae0253f3cc5
+run_name: gregarious-crab-634
+run_uuid: 65858612597b4e4083c8bae0253f3cc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705021085563
+status: 3
+tags: []
+user_id: runner
