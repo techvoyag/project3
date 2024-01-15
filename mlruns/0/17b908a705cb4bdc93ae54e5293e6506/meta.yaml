@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/17b908a705cb4bdc93ae54e5293e6506/artifacts
+end_time: 1705280381078
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17b908a705cb4bdc93ae54e5293e6506
+run_name: agreeable-chimp-37
+run_uuid: 17b908a705cb4bdc93ae54e5293e6506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705280381057
+status: 3
+tags: []
+user_id: runner
