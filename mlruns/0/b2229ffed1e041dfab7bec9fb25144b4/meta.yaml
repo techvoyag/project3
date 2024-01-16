@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/b2229ffed1e041dfab7bec9fb25144b4/artifacts
+end_time: 1705366656556
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2229ffed1e041dfab7bec9fb25144b4
+run_name: dazzling-hen-183
+run_uuid: b2229ffed1e041dfab7bec9fb25144b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705366656534
+status: 3
+tags: []
+user_id: runner
