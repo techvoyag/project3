@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/c73e7538dca84abf82c7756e30795c54/artifacts
+end_time: 1705539438903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c73e7538dca84abf82c7756e30795c54
+run_name: valuable-fawn-23
+run_uuid: c73e7538dca84abf82c7756e30795c54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705539438881
+status: 3
+tags: []
+user_id: runner
