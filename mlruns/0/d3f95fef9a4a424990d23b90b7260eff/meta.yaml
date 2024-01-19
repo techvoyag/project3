@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/d3f95fef9a4a424990d23b90b7260eff/artifacts
+end_time: 1705625882149
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3f95fef9a4a424990d23b90b7260eff
+run_name: persistent-ox-826
+run_uuid: d3f95fef9a4a424990d23b90b7260eff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705625882128
+status: 3
+tags: []
+user_id: runner
