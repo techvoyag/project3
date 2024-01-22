@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/b1c987177c014ccabc69a06b8df8e600/artifacts
+end_time: 1705885218773
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1c987177c014ccabc69a06b8df8e600
+run_name: rumbling-roo-908
+run_uuid: b1c987177c014ccabc69a06b8df8e600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705885218751
+status: 3
+tags: []
+user_id: runner
