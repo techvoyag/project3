@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/dea05a74c5c14cb9a88d242a068ca628/artifacts
+end_time: 1705971533597
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dea05a74c5c14cb9a88d242a068ca628
+run_name: incongruous-deer-640
+run_uuid: dea05a74c5c14cb9a88d242a068ca628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705971533574
+status: 3
+tags: []
+user_id: runner
