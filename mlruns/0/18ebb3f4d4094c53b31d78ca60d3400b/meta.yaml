@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/18ebb3f4d4094c53b31d78ca60d3400b/artifacts
+end_time: 1706576028040
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18ebb3f4d4094c53b31d78ca60d3400b
+run_name: peaceful-ant-439
+run_uuid: 18ebb3f4d4094c53b31d78ca60d3400b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706576028017
+status: 3
+tags: []
+user_id: runner
