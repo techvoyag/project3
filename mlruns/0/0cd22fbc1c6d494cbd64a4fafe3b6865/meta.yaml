@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/0cd22fbc1c6d494cbd64a4fafe3b6865/artifacts
+end_time: 1706662447918
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0cd22fbc1c6d494cbd64a4fafe3b6865
+run_name: masked-quail-730
+run_uuid: 0cd22fbc1c6d494cbd64a4fafe3b6865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706662447896
+status: 3
+tags: []
+user_id: runner
