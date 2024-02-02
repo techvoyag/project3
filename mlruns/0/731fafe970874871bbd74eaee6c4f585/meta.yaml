@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/731fafe970874871bbd74eaee6c4f585/artifacts
+end_time: 1706835234719
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 731fafe970874871bbd74eaee6c4f585
+run_name: powerful-vole-389
+run_uuid: 731fafe970874871bbd74eaee6c4f585
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706835234697
+status: 3
+tags: []
+user_id: runner
