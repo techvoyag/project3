@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/16151b099bbf4ad3a9915f366a2b5559/artifacts
+end_time: 1706921583592
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16151b099bbf4ad3a9915f366a2b5559
+run_name: capricious-ape-70
+run_uuid: 16151b099bbf4ad3a9915f366a2b5559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706921583569
+status: 3
+tags: []
+user_id: runner
