@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/3cd67cec814b4f6785b60d37169be676/artifacts
+end_time: 1707008243696
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3cd67cec814b4f6785b60d37169be676
+run_name: enchanting-boar-63
+run_uuid: 3cd67cec814b4f6785b60d37169be676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707008243673
+status: 3
+tags: []
+user_id: runner
