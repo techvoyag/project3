@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/fbd1d26896be4de986a9648563ce3a1c/artifacts
+end_time: 1707094516292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fbd1d26896be4de986a9648563ce3a1c
+run_name: victorious-snipe-503
+run_uuid: fbd1d26896be4de986a9648563ce3a1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707094516270
+status: 3
+tags: []
+user_id: runner
