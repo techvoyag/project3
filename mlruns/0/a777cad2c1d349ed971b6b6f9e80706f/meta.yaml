@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/a777cad2c1d349ed971b6b6f9e80706f/artifacts
+end_time: 1707180791987
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a777cad2c1d349ed971b6b6f9e80706f
+run_name: thoughtful-shad-668
+run_uuid: a777cad2c1d349ed971b6b6f9e80706f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707180791964
+status: 3
+tags: []
+user_id: runner
