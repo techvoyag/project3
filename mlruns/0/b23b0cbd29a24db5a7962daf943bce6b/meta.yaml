@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/b23b0cbd29a24db5a7962daf943bce6b/artifacts
+end_time: 1707439979005
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b23b0cbd29a24db5a7962daf943bce6b
+run_name: grandiose-sheep-610
+run_uuid: b23b0cbd29a24db5a7962daf943bce6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707439978983
+status: 3
+tags: []
+user_id: runner
