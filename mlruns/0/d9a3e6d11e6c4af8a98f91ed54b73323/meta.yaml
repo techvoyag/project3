@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/d9a3e6d11e6c4af8a98f91ed54b73323/artifacts
+end_time: 1707699250024
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9a3e6d11e6c4af8a98f91ed54b73323
+run_name: rumbling-mink-187
+run_uuid: d9a3e6d11e6c4af8a98f91ed54b73323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707699250001
+status: 3
+tags: []
+user_id: runner
