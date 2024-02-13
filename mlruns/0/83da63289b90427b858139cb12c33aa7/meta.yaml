@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/83da63289b90427b858139cb12c33aa7/artifacts
+end_time: 1707785646720
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83da63289b90427b858139cb12c33aa7
+run_name: enthused-fly-839
+run_uuid: 83da63289b90427b858139cb12c33aa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707785646697
+status: 3
+tags: []
+user_id: runner
