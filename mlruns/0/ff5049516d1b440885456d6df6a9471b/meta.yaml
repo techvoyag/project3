@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/ff5049516d1b440885456d6df6a9471b/artifacts
+end_time: 1707958438559
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff5049516d1b440885456d6df6a9471b
+run_name: vaunted-cod-297
+run_uuid: ff5049516d1b440885456d6df6a9471b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707958438536
+status: 3
+tags: []
+user_id: runner
