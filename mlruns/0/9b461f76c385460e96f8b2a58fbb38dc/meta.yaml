@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/9b461f76c385460e96f8b2a58fbb38dc/artifacts
+end_time: 1708044782238
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b461f76c385460e96f8b2a58fbb38dc
+run_name: invincible-flea-86
+run_uuid: 9b461f76c385460e96f8b2a58fbb38dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708044782215
+status: 3
+tags: []
+user_id: runner
