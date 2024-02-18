@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/df4942e30644491dad5b4cb708cd3f2b/artifacts
+end_time: 1708217811709
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df4942e30644491dad5b4cb708cd3f2b
+run_name: wise-bee-939
+run_uuid: df4942e30644491dad5b4cb708cd3f2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708217811687
+status: 3
+tags: []
+user_id: runner
