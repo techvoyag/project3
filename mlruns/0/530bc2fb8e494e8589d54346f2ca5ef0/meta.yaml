@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/530bc2fb8e494e8589d54346f2ca5ef0/artifacts
+end_time: 1708390363844
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 530bc2fb8e494e8589d54346f2ca5ef0
+run_name: lyrical-finch-1000
+run_uuid: 530bc2fb8e494e8589d54346f2ca5ef0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708390363820
+status: 3
+tags: []
+user_id: runner
