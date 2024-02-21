@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/ac6fe540454949c19d4251331e067ab1/artifacts
+end_time: 1708476839281
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac6fe540454949c19d4251331e067ab1
+run_name: nosy-squid-563
+run_uuid: ac6fe540454949c19d4251331e067ab1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708476839258
+status: 3
+tags: []
+user_id: runner
