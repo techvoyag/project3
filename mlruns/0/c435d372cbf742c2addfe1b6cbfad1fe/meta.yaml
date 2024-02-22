@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/c435d372cbf742c2addfe1b6cbfad1fe/artifacts
+end_time: 1708563190230
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c435d372cbf742c2addfe1b6cbfad1fe
+run_name: mysterious-seal-83
+run_uuid: c435d372cbf742c2addfe1b6cbfad1fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708563190207
+status: 3
+tags: []
+user_id: runner
