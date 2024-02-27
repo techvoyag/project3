@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/22d41acacb344de692bc24f800dd3f6d/artifacts
+end_time: 1708995161102
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22d41acacb344de692bc24f800dd3f6d
+run_name: able-rat-349
+run_uuid: 22d41acacb344de692bc24f800dd3f6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708995161078
+status: 3
+tags: []
+user_id: runner
