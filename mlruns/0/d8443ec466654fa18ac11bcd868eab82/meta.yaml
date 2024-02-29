@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/d8443ec466654fa18ac11bcd868eab82/artifacts
+end_time: 1709168002997
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8443ec466654fa18ac11bcd868eab82
+run_name: exultant-elk-677
+run_uuid: d8443ec466654fa18ac11bcd868eab82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709168002974
+status: 3
+tags: []
+user_id: runner
