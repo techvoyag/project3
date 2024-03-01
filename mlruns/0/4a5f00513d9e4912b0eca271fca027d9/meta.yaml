@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/4a5f00513d9e4912b0eca271fca027d9/artifacts
+end_time: 1709254691188
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a5f00513d9e4912b0eca271fca027d9
+run_name: mercurial-kite-594
+run_uuid: 4a5f00513d9e4912b0eca271fca027d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709254691165
+status: 3
+tags: []
+user_id: runner
