@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/9c09f750f486462ba9a66bf3ca860b03/artifacts
+end_time: 1709427381274
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c09f750f486462ba9a66bf3ca860b03
+run_name: upset-dolphin-915
+run_uuid: 9c09f750f486462ba9a66bf3ca860b03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709427381250
+status: 3
+tags: []
+user_id: runner
