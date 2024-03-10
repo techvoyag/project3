@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/808aa6d1f62a4164b9106c63d259832f/artifacts
+end_time: 1710032219984
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 808aa6d1f62a4164b9106c63d259832f
+run_name: whimsical-cat-486
+run_uuid: 808aa6d1f62a4164b9106c63d259832f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710032219962
+status: 3
+tags: []
+user_id: runner
