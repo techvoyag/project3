@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/1e4047e2cd394cbabc508373c1f615da/artifacts
+end_time: 1710204781617
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e4047e2cd394cbabc508373c1f615da
+run_name: angry-mole-922
+run_uuid: 1e4047e2cd394cbabc508373c1f615da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710204781594
+status: 3
+tags: []
+user_id: runner
