@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/ca5066ab17954a7ba455312ea25c9fb0/artifacts
+end_time: 1710291259552
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca5066ab17954a7ba455312ea25c9fb0
+run_name: fun-donkey-738
+run_uuid: ca5066ab17954a7ba455312ea25c9fb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710291259529
+status: 3
+tags: []
+user_id: runner
