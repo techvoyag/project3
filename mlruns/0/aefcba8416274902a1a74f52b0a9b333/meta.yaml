@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/aefcba8416274902a1a74f52b0a9b333/artifacts
+end_time: 1710464043863
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aefcba8416274902a1a74f52b0a9b333
+run_name: defiant-bear-120
+run_uuid: aefcba8416274902a1a74f52b0a9b333
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710464043840
+status: 3
+tags: []
+user_id: runner
