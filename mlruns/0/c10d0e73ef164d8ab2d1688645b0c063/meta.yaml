@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/c10d0e73ef164d8ab2d1688645b0c063/artifacts
+end_time: 1710550358510
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c10d0e73ef164d8ab2d1688645b0c063
+run_name: powerful-elk-597
+run_uuid: c10d0e73ef164d8ab2d1688645b0c063
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710550358487
+status: 3
+tags: []
+user_id: runner
