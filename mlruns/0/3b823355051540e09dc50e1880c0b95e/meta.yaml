@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/3b823355051540e09dc50e1880c0b95e/artifacts
+end_time: 1710723282179
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b823355051540e09dc50e1880c0b95e
+run_name: skillful-stork-754
+run_uuid: 3b823355051540e09dc50e1880c0b95e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710723282156
+status: 3
+tags: []
+user_id: runner
