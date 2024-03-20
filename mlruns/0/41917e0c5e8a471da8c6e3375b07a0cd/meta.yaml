@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/41917e0c5e8a471da8c6e3375b07a0cd/artifacts
+end_time: 1710896004657
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41917e0c5e8a471da8c6e3375b07a0cd
+run_name: adorable-squid-648
+run_uuid: 41917e0c5e8a471da8c6e3375b07a0cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710896004633
+status: 3
+tags: []
+user_id: runner
