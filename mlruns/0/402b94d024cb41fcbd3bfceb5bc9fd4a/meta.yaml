@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/402b94d024cb41fcbd3bfceb5bc9fd4a/artifacts
+end_time: 1711068828809
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 402b94d024cb41fcbd3bfceb5bc9fd4a
+run_name: treasured-cod-391
+run_uuid: 402b94d024cb41fcbd3bfceb5bc9fd4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711068828786
+status: 3
+tags: []
+user_id: runner
