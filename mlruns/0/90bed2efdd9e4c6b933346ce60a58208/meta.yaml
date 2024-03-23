@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/90bed2efdd9e4c6b933346ce60a58208/artifacts
+end_time: 1711155165891
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90bed2efdd9e4c6b933346ce60a58208
+run_name: languid-shark-401
+run_uuid: 90bed2efdd9e4c6b933346ce60a58208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711155165867
+status: 3
+tags: []
+user_id: runner
