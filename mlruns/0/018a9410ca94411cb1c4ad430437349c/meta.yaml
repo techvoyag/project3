@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/018a9410ca94411cb1c4ad430437349c/artifacts
+end_time: 1711241941460
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 018a9410ca94411cb1c4ad430437349c
+run_name: fun-duck-324
+run_uuid: 018a9410ca94411cb1c4ad430437349c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711241941436
+status: 3
+tags: []
+user_id: runner
