@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/a32781e7309e438a90fd4639ccca58e5/artifacts
+end_time: 1711500825534
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a32781e7309e438a90fd4639ccca58e5
+run_name: classy-seal-653
+run_uuid: a32781e7309e438a90fd4639ccca58e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711500825511
+status: 3
+tags: []
+user_id: runner
