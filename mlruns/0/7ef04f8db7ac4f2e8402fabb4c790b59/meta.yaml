@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/7ef04f8db7ac4f2e8402fabb4c790b59/artifacts
+end_time: 1711673661930
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ef04f8db7ac4f2e8402fabb4c790b59
+run_name: glamorous-ant-361
+run_uuid: 7ef04f8db7ac4f2e8402fabb4c790b59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711673661907
+status: 3
+tags: []
+user_id: runner
