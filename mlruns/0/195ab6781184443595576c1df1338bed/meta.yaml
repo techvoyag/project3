@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/195ab6781184443595576c1df1338bed/artifacts
+end_time: 1711846745663
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 195ab6781184443595576c1df1338bed
+run_name: enthused-toad-139
+run_uuid: 195ab6781184443595576c1df1338bed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711846745639
+status: 3
+tags: []
+user_id: runner
