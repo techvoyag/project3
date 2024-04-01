@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/917e02d81c39406e9825e9a0c6b80b8d/artifacts
+end_time: 1711933167029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 917e02d81c39406e9825e9a0c6b80b8d
+run_name: exultant-fly-93
+run_uuid: 917e02d81c39406e9825e9a0c6b80b8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711933167006
+status: 3
+tags: []
+user_id: runner
