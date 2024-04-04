@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/3ad03b0eb23147be975f38a844d04a54/artifacts
+end_time: 1712192140155
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ad03b0eb23147be975f38a844d04a54
+run_name: beautiful-skunk-65
+run_uuid: 3ad03b0eb23147be975f38a844d04a54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712192140131
+status: 3
+tags: []
+user_id: runner
