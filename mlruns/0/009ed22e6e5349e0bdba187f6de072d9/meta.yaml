@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/009ed22e6e5349e0bdba187f6de072d9/artifacts
+end_time: 1712278495676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 009ed22e6e5349e0bdba187f6de072d9
+run_name: silent-mouse-587
+run_uuid: 009ed22e6e5349e0bdba187f6de072d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712278495653
+status: 3
+tags: []
+user_id: runner
