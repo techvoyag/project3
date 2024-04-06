@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/70f18a97d2254baf809f8c61d7fe0bb1/artifacts
+end_time: 1712364798001
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70f18a97d2254baf809f8c61d7fe0bb1
+run_name: clean-toad-415
+run_uuid: 70f18a97d2254baf809f8c61d7fe0bb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712364797977
+status: 3
+tags: []
+user_id: runner
