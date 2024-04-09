@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/8635393070644ce9a8be2b023cace317/artifacts
+end_time: 1712624077571
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8635393070644ce9a8be2b023cace317
+run_name: rebellious-mare-254
+run_uuid: 8635393070644ce9a8be2b023cace317
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712624077547
+status: 3
+tags: []
+user_id: runner
