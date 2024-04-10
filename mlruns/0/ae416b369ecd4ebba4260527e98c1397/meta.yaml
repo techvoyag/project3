@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/ae416b369ecd4ebba4260527e98c1397/artifacts
+end_time: 1712710460531
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae416b369ecd4ebba4260527e98c1397
+run_name: monumental-skunk-11
+run_uuid: ae416b369ecd4ebba4260527e98c1397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712710460507
+status: 3
+tags: []
+user_id: runner
