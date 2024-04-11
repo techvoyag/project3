@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/b74f610e4fd748629b8075ccc9a72da1/artifacts
+end_time: 1712796911988
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b74f610e4fd748629b8075ccc9a72da1
+run_name: capable-perch-406
+run_uuid: b74f610e4fd748629b8075ccc9a72da1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712796911964
+status: 3
+tags: []
+user_id: runner
