@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/b38c11b99d3841069eefd02bd2d777f2/artifacts
+end_time: 1712883320579
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b38c11b99d3841069eefd02bd2d777f2
+run_name: amazing-ram-45
+run_uuid: b38c11b99d3841069eefd02bd2d777f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712883320555
+status: 3
+tags: []
+user_id: runner
