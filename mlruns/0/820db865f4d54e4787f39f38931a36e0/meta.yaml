@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/820db865f4d54e4787f39f38931a36e0/artifacts
+end_time: 1713057259683
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 820db865f4d54e4787f39f38931a36e0
+run_name: serious-duck-535
+run_uuid: 820db865f4d54e4787f39f38931a36e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713057259658
+status: 3
+tags: []
+user_id: runner
