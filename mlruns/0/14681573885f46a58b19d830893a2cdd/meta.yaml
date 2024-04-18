@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/14681573885f46a58b19d830893a2cdd/artifacts
+end_time: 1713401662529
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14681573885f46a58b19d830893a2cdd
+run_name: grandiose-carp-442
+run_uuid: 14681573885f46a58b19d830893a2cdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713401662505
+status: 3
+tags: []
+user_id: runner
