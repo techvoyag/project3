@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/6ac1e09aaa3a449bbf49f9958667feb1/artifacts
+end_time: 1713488106339
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ac1e09aaa3a449bbf49f9958667feb1
+run_name: capable-shrike-634
+run_uuid: 6ac1e09aaa3a449bbf49f9958667feb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713488106315
+status: 3
+tags: []
+user_id: runner
