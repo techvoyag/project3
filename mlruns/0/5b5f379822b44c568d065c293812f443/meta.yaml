@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/5b5f379822b44c568d065c293812f443/artifacts
+end_time: 1713747431730
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b5f379822b44c568d065c293812f443
+run_name: glamorous-dove-239
+run_uuid: 5b5f379822b44c568d065c293812f443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713747431707
+status: 3
+tags: []
+user_id: runner
