@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/f6d3dd7a8bd146c3b46a2126c6bc167f/artifacts
+end_time: 1714266006914
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6d3dd7a8bd146c3b46a2126c6bc167f
+run_name: enchanting-tern-638
+run_uuid: f6d3dd7a8bd146c3b46a2126c6bc167f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714266006890
+status: 3
+tags: []
+user_id: runner
