@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/a0b21ba83bd14bf1990bf2cd74e5133d/artifacts
+end_time: 1714784146454
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0b21ba83bd14bf1990bf2cd74e5133d
+run_name: stylish-smelt-617
+run_uuid: a0b21ba83bd14bf1990bf2cd74e5133d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714784146431
+status: 3
+tags: []
+user_id: runner
