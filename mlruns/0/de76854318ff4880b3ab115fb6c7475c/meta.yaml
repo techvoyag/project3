@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/de76854318ff4880b3ab115fb6c7475c/artifacts
+end_time: 1715043404534
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de76854318ff4880b3ab115fb6c7475c
+run_name: loud-cow-486
+run_uuid: de76854318ff4880b3ab115fb6c7475c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715043404510
+status: 3
+tags: []
+user_id: runner
