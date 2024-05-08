@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/19e5a8b83a0d4ec29affac0dcd2ff7ee/artifacts
+end_time: 1715129207562
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19e5a8b83a0d4ec29affac0dcd2ff7ee
+run_name: upbeat-frog-100
+run_uuid: 19e5a8b83a0d4ec29affac0dcd2ff7ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715129207538
+status: 3
+tags: []
+user_id: runner
