@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/dda4e2c7b9884cb785ff31506bdfc018/artifacts
+end_time: 1715648260803
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dda4e2c7b9884cb785ff31506bdfc018
+run_name: dashing-foal-178
+run_uuid: dda4e2c7b9884cb785ff31506bdfc018
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715648260779
+status: 3
+tags: []
+user_id: runner
