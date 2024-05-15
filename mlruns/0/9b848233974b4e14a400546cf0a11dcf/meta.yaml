@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/9b848233974b4e14a400546cf0a11dcf/artifacts
+end_time: 1715734672436
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b848233974b4e14a400546cf0a11dcf
+run_name: exultant-flea-992
+run_uuid: 9b848233974b4e14a400546cf0a11dcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715734672410
+status: 3
+tags: []
+user_id: runner
