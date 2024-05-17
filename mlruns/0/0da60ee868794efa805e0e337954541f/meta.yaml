@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/0da60ee868794efa805e0e337954541f/artifacts
+end_time: 1715907460084
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0da60ee868794efa805e0e337954541f
+run_name: enchanting-shad-665
+run_uuid: 0da60ee868794efa805e0e337954541f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715907460060
+status: 3
+tags: []
+user_id: runner
