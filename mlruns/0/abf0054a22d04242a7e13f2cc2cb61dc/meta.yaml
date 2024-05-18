@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/abf0054a22d04242a7e13f2cc2cb61dc/artifacts
+end_time: 1715993802894
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abf0054a22d04242a7e13f2cc2cb61dc
+run_name: hilarious-jay-831
+run_uuid: abf0054a22d04242a7e13f2cc2cb61dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715993802870
+status: 3
+tags: []
+user_id: runner
