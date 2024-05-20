@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/2828d400b36b465b8968642a19ddfb2a/artifacts
+end_time: 1716166689213
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2828d400b36b465b8968642a19ddfb2a
+run_name: sincere-lynx-744
+run_uuid: 2828d400b36b465b8968642a19ddfb2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716166689189
+status: 3
+tags: []
+user_id: runner
