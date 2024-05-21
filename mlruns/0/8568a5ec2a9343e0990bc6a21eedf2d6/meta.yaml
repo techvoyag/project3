@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/8568a5ec2a9343e0990bc6a21eedf2d6/artifacts
+end_time: 1716253080637
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8568a5ec2a9343e0990bc6a21eedf2d6
+run_name: big-auk-510
+run_uuid: 8568a5ec2a9343e0990bc6a21eedf2d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716253080613
+status: 3
+tags: []
+user_id: runner
