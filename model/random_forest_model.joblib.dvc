@@ -1,5 +1,5 @@
 outs:
-- md5: abab7d0da8c9287b9da6fbd9caf52fdf
+- md5: fc55de08c4d3e5dda4fcc6e0a502f38e
   size: 240849
   hash: md5
   path: random_forest_model.joblib
