@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/3e466be603e045a5833d65bcbc90ce90/artifacts
+end_time: 1716512286409
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e466be603e045a5833d65bcbc90ce90
+run_name: enchanting-doe-208
+run_uuid: 3e466be603e045a5833d65bcbc90ce90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716512286385
+status: 3
+tags: []
+user_id: runner
