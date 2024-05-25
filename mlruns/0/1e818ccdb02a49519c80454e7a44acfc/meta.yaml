@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/1e818ccdb02a49519c80454e7a44acfc/artifacts
+end_time: 1716598609684
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e818ccdb02a49519c80454e7a44acfc
+run_name: intrigued-robin-983
+run_uuid: 1e818ccdb02a49519c80454e7a44acfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716598609659
+status: 3
+tags: []
+user_id: runner
