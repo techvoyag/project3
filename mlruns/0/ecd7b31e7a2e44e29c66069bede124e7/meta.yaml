@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/ecd7b31e7a2e44e29c66069bede124e7/artifacts
+end_time: 1716944502704
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ecd7b31e7a2e44e29c66069bede124e7
+run_name: abundant-penguin-892
+run_uuid: ecd7b31e7a2e44e29c66069bede124e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716944502679
+status: 3
+tags: []
+user_id: runner
