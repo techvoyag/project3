@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/a19729e21ee8449198a5cbd6e9e0523c/artifacts
+end_time: 1717117166968
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a19729e21ee8449198a5cbd6e9e0523c
+run_name: useful-cod-946
+run_uuid: a19729e21ee8449198a5cbd6e9e0523c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717117166943
+status: 3
+tags: []
+user_id: runner
