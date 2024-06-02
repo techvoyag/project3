@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/94e9d9e7be994372bfd9fdbcc26d0f0c/artifacts
+end_time: 1717290156359
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94e9d9e7be994372bfd9fdbcc26d0f0c
+run_name: placid-lynx-789
+run_uuid: 94e9d9e7be994372bfd9fdbcc26d0f0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717290156335
+status: 3
+tags: []
+user_id: runner
