@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/e4c68229336a4ec0b0a40e29480a04e8/artifacts
+end_time: 1717462771707
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4c68229336a4ec0b0a40e29480a04e8
+run_name: wise-kite-271
+run_uuid: e4c68229336a4ec0b0a40e29480a04e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717462771683
+status: 3
+tags: []
+user_id: runner
