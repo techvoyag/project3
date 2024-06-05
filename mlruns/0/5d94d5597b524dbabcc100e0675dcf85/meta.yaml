@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/5d94d5597b524dbabcc100e0675dcf85/artifacts
+end_time: 1717549152682
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d94d5597b524dbabcc100e0675dcf85
+run_name: nervous-lamb-749
+run_uuid: 5d94d5597b524dbabcc100e0675dcf85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717549152658
+status: 3
+tags: []
+user_id: runner
