@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/78ed9b2da3bf4e0ea6684b963416798a/artifacts
+end_time: 1717722082822
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78ed9b2da3bf4e0ea6684b963416798a
+run_name: capricious-crow-367
+run_uuid: 78ed9b2da3bf4e0ea6684b963416798a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717722082798
+status: 3
+tags: []
+user_id: runner
