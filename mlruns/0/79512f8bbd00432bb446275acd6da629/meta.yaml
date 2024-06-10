@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/79512f8bbd00432bb446275acd6da629/artifacts
+end_time: 1717981313118
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79512f8bbd00432bb446275acd6da629
+run_name: suave-mink-834
+run_uuid: 79512f8bbd00432bb446275acd6da629
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717981313093
+status: 3
+tags: []
+user_id: runner
