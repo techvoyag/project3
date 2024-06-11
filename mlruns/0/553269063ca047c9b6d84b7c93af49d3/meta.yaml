@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/553269063ca047c9b6d84b7c93af49d3/artifacts
+end_time: 1718067615444
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 553269063ca047c9b6d84b7c93af49d3
+run_name: puzzled-eel-823
+run_uuid: 553269063ca047c9b6d84b7c93af49d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718067615419
+status: 3
+tags: []
+user_id: runner
