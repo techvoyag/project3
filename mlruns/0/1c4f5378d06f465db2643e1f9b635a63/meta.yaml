@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/1c4f5378d06f465db2643e1f9b635a63/artifacts
+end_time: 1718154027454
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c4f5378d06f465db2643e1f9b635a63
+run_name: overjoyed-fowl-332
+run_uuid: 1c4f5378d06f465db2643e1f9b635a63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718154027430
+status: 3
+tags: []
+user_id: runner
