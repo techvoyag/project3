@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/cbd3d470510941868052988ec06c1dc7/artifacts
+end_time: 1718499877246
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cbd3d470510941868052988ec06c1dc7
+run_name: zealous-fawn-701
+run_uuid: cbd3d470510941868052988ec06c1dc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718499877222
+status: 3
+tags: []
+user_id: runner
