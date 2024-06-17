@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/af090382073e495f964811804f024b62/artifacts
+end_time: 1718586128412
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af090382073e495f964811804f024b62
+run_name: caring-wasp-955
+run_uuid: af090382073e495f964811804f024b62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718586128387
+status: 3
+tags: []
+user_id: runner
