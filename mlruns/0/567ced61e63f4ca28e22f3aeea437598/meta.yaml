@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/567ced61e63f4ca28e22f3aeea437598/artifacts
+end_time: 1718845133870
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 567ced61e63f4ca28e22f3aeea437598
+run_name: agreeable-finch-705
+run_uuid: 567ced61e63f4ca28e22f3aeea437598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718845133846
+status: 3
+tags: []
+user_id: runner
