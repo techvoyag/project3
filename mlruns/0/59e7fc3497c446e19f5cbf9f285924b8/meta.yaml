@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/59e7fc3497c446e19f5cbf9f285924b8/artifacts
+end_time: 1719277199119
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59e7fc3497c446e19f5cbf9f285924b8
+run_name: capable-elk-488
+run_uuid: 59e7fc3497c446e19f5cbf9f285924b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719277199093
+status: 3
+tags: []
+user_id: runner
