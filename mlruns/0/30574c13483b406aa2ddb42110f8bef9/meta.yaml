@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/30574c13483b406aa2ddb42110f8bef9/artifacts
+end_time: 1719536423697
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30574c13483b406aa2ddb42110f8bef9
+run_name: painted-horse-248
+run_uuid: 30574c13483b406aa2ddb42110f8bef9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719536423671
+status: 3
+tags: []
+user_id: runner
