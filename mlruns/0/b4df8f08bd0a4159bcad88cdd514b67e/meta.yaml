@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/b4df8f08bd0a4159bcad88cdd514b67e/artifacts
+end_time: 1719622764437
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4df8f08bd0a4159bcad88cdd514b67e
+run_name: glamorous-bird-802
+run_uuid: b4df8f08bd0a4159bcad88cdd514b67e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719622764411
+status: 3
+tags: []
+user_id: runner
