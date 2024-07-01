@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/90e6de7b0c294f798767630e8a12edc2/artifacts
+end_time: 1719796030288
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90e6de7b0c294f798767630e8a12edc2
+run_name: awesome-finch-192
+run_uuid: 90e6de7b0c294f798767630e8a12edc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719796030263
+status: 3
+tags: []
+user_id: runner
