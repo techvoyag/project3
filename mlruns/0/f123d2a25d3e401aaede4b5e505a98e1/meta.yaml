@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/f123d2a25d3e401aaede4b5e505a98e1/artifacts
+end_time: 1719968437541
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f123d2a25d3e401aaede4b5e505a98e1
+run_name: bright-moth-772
+run_uuid: f123d2a25d3e401aaede4b5e505a98e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719968437515
+status: 3
+tags: []
+user_id: runner
