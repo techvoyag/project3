@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/7c15cce8686a4ec18e32fbb1cdae4675/artifacts
+end_time: 1720054876624
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c15cce8686a4ec18e32fbb1cdae4675
+run_name: gregarious-lark-115
+run_uuid: 7c15cce8686a4ec18e32fbb1cdae4675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720054876599
+status: 3
+tags: []
+user_id: runner
