@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/9eb67d2816854232a18a1f30dae6592f/artifacts
+end_time: 1720227552172
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9eb67d2816854232a18a1f30dae6592f
+run_name: honorable-cat-598
+run_uuid: 9eb67d2816854232a18a1f30dae6592f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720227552147
+status: 3
+tags: []
+user_id: runner
