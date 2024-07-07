@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/732c201f579240a3a13e574469b98179/artifacts
+end_time: 1720314368937
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 732c201f579240a3a13e574469b98179
+run_name: intelligent-lynx-649
+run_uuid: 732c201f579240a3a13e574469b98179
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720314368912
+status: 3
+tags: []
+user_id: runner
