@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/97305cf440784d74803a5d384957fb5a/artifacts
+end_time: 1720400567873
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97305cf440784d74803a5d384957fb5a
+run_name: secretive-shoat-230
+run_uuid: 97305cf440784d74803a5d384957fb5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720400567848
+status: 3
+tags: []
+user_id: runner
