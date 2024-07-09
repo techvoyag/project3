@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/e64e6ea071cf43499d87ebd5efca2787/artifacts
+end_time: 1720486903366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e64e6ea071cf43499d87ebd5efca2787
+run_name: enthused-gull-298
+run_uuid: e64e6ea071cf43499d87ebd5efca2787
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720486903341
+status: 3
+tags: []
+user_id: runner
