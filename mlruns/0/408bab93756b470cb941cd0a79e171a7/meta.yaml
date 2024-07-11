@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/408bab93756b470cb941cd0a79e171a7/artifacts
+end_time: 1720659741450
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 408bab93756b470cb941cd0a79e171a7
+run_name: thundering-gnat-509
+run_uuid: 408bab93756b470cb941cd0a79e171a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720659741425
+status: 3
+tags: []
+user_id: runner
