@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/aa08f06d18b341098fd5eb8922eb24a3/artifacts
+end_time: 1720746062536
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa08f06d18b341098fd5eb8922eb24a3
+run_name: invincible-dog-1000
+run_uuid: aa08f06d18b341098fd5eb8922eb24a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720746062512
+status: 3
+tags: []
+user_id: runner
