@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/2c0d96e758cf4a709ec337bb79ea8bfe/artifacts
+end_time: 1721178145191
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c0d96e758cf4a709ec337bb79ea8bfe
+run_name: righteous-yak-512
+run_uuid: 2c0d96e758cf4a709ec337bb79ea8bfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721178145166
+status: 3
+tags: []
+user_id: runner
