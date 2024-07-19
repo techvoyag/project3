@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/8db02c6d610446809bd5e7a1096cffba/artifacts
+end_time: 1721429692106
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8db02c6d610446809bd5e7a1096cffba
+run_name: unique-crane-778
+run_uuid: 8db02c6d610446809bd5e7a1096cffba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721429692082
+status: 3
+tags: []
+user_id: runner
