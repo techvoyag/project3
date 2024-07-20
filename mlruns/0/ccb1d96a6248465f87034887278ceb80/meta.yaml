@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/ccb1d96a6248465f87034887278ceb80/artifacts
+end_time: 1721437251740
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ccb1d96a6248465f87034887278ceb80
+run_name: capricious-shad-794
+run_uuid: ccb1d96a6248465f87034887278ceb80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721437251716
+status: 3
+tags: []
+user_id: runner
