@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/6c47b99b294b445b8aac50d0283e31ed/artifacts
+end_time: 1721696556765
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c47b99b294b445b8aac50d0283e31ed
+run_name: carefree-tern-542
+run_uuid: 6c47b99b294b445b8aac50d0283e31ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721696556740
+status: 3
+tags: []
+user_id: runner
