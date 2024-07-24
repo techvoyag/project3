@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/5a5cdcd779864adca5321f5530cadda9/artifacts
+end_time: 1721782980857
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a5cdcd779864adca5321f5530cadda9
+run_name: unleashed-ray-745
+run_uuid: 5a5cdcd779864adca5321f5530cadda9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721782980819
+status: 3
+tags: []
+user_id: runner
