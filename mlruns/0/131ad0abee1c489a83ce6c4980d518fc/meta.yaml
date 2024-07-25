@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/131ad0abee1c489a83ce6c4980d518fc/artifacts
+end_time: 1721869354248
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 131ad0abee1c489a83ce6c4980d518fc
+run_name: incongruous-yak-439
+run_uuid: 131ad0abee1c489a83ce6c4980d518fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721869354223
+status: 3
+tags: []
+user_id: runner
