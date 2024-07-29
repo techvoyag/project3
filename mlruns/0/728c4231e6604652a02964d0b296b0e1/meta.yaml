@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/728c4231e6604652a02964d0b296b0e1/artifacts
+end_time: 1722215047078
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 728c4231e6604652a02964d0b296b0e1
+run_name: legendary-moth-766
+run_uuid: 728c4231e6604652a02964d0b296b0e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722215047053
+status: 3
+tags: []
+user_id: runner
