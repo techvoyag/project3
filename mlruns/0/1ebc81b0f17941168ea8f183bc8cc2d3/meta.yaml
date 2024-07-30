@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/1ebc81b0f17941168ea8f183bc8cc2d3/artifacts
+end_time: 1722301355043
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ebc81b0f17941168ea8f183bc8cc2d3
+run_name: wise-hog-388
+run_uuid: 1ebc81b0f17941168ea8f183bc8cc2d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722301355018
+status: 3
+tags: []
+user_id: runner
