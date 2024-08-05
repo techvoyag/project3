@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/2f6e8987524b42798238d4c1f454bd59/artifacts
+end_time: 1722819878480
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f6e8987524b42798238d4c1f454bd59
+run_name: classy-zebra-927
+run_uuid: 2f6e8987524b42798238d4c1f454bd59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722819878455
+status: 3
+tags: []
+user_id: runner
