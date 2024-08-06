@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/d80f0538dbaa4c8ab85ff5b003b84dd4/artifacts
+end_time: 1722906176427
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d80f0538dbaa4c8ab85ff5b003b84dd4
+run_name: sneaky-donkey-289
+run_uuid: d80f0538dbaa4c8ab85ff5b003b84dd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722906176402
+status: 3
+tags: []
+user_id: runner
