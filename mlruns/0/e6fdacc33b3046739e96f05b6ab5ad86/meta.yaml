@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/e6fdacc33b3046739e96f05b6ab5ad86/artifacts
+end_time: 1722992627041
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6fdacc33b3046739e96f05b6ab5ad86
+run_name: receptive-fowl-65
+run_uuid: e6fdacc33b3046739e96f05b6ab5ad86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722992627016
+status: 3
+tags: []
+user_id: runner
