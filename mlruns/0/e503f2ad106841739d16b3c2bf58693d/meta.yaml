@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/e503f2ad106841739d16b3c2bf58693d/artifacts
+end_time: 1723165474021
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e503f2ad106841739d16b3c2bf58693d
+run_name: defiant-fox-59
+run_uuid: e503f2ad106841739d16b3c2bf58693d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723165473995
+status: 3
+tags: []
+user_id: runner
