@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/501d8ddd80fb4e0e874420ee2bb3de15/artifacts
+end_time: 1723338504878
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 501d8ddd80fb4e0e874420ee2bb3de15
+run_name: sneaky-stoat-146
+run_uuid: 501d8ddd80fb4e0e874420ee2bb3de15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723338504853
+status: 3
+tags: []
+user_id: runner
