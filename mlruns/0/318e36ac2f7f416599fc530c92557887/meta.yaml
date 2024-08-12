@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/318e36ac2f7f416599fc530c92557887/artifacts
+end_time: 1723424724196
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 318e36ac2f7f416599fc530c92557887
+run_name: selective-quail-303
+run_uuid: 318e36ac2f7f416599fc530c92557887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723424724169
+status: 3
+tags: []
+user_id: runner
