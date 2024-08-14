@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/aa59ecc5046448418d303f8263a9f188/artifacts
+end_time: 1723597436418
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa59ecc5046448418d303f8263a9f188
+run_name: wistful-shrimp-200
+run_uuid: aa59ecc5046448418d303f8263a9f188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723597436392
+status: 3
+tags: []
+user_id: runner
