@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/a2547b8cf11d4efbb8833162bf669f1c/artifacts
+end_time: 1723683647091
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2547b8cf11d4efbb8833162bf669f1c
+run_name: funny-gull-645
+run_uuid: a2547b8cf11d4efbb8833162bf669f1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723683647065
+status: 3
+tags: []
+user_id: runner
