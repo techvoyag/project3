@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/7af41eb6647548ff80edf2cc13f3afcc/artifacts
+end_time: 1723856479579
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7af41eb6647548ff80edf2cc13f3afcc
+run_name: lyrical-chimp-102
+run_uuid: 7af41eb6647548ff80edf2cc13f3afcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723856479554
+status: 3
+tags: []
+user_id: runner
