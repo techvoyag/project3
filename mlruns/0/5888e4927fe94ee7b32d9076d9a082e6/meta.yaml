@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/5888e4927fe94ee7b32d9076d9a082e6/artifacts
+end_time: 1724202193500
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5888e4927fe94ee7b32d9076d9a082e6
+run_name: redolent-moose-15
+run_uuid: 5888e4927fe94ee7b32d9076d9a082e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724202193475
+status: 3
+tags: []
+user_id: runner
