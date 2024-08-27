@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/3d31a46c417c4c98b70bf5e9d8c87239/artifacts
+end_time: 1724720698824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d31a46c417c4c98b70bf5e9d8c87239
+run_name: wistful-fowl-555
+run_uuid: 3d31a46c417c4c98b70bf5e9d8c87239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724720698798
+status: 3
+tags: []
+user_id: runner
