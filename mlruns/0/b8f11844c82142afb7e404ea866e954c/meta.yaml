@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/b8f11844c82142afb7e404ea866e954c/artifacts
+end_time: 1724807125899
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8f11844c82142afb7e404ea866e954c
+run_name: chill-foal-77
+run_uuid: b8f11844c82142afb7e404ea866e954c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724807125874
+status: 3
+tags: []
+user_id: runner
