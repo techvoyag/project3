@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/ba12ab3a228d477abe518a7aa00e13ea/artifacts
+end_time: 1725153394444
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba12ab3a228d477abe518a7aa00e13ea
+run_name: mercurial-horse-208
+run_uuid: ba12ab3a228d477abe518a7aa00e13ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725153394419
+status: 3
+tags: []
+user_id: runner
