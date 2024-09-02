@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/aba1a819b7554fb0bce3307a6095e8ff/artifacts
+end_time: 1725239259871
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aba1a819b7554fb0bce3307a6095e8ff
+run_name: auspicious-owl-968
+run_uuid: aba1a819b7554fb0bce3307a6095e8ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725239259846
+status: 3
+tags: []
+user_id: runner
