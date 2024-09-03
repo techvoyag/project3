@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/e369b5b00920412593005324fc3ed318/artifacts
+end_time: 1725325537499
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e369b5b00920412593005324fc3ed318
+run_name: valuable-skink-634
+run_uuid: e369b5b00920412593005324fc3ed318
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725325537474
+status: 3
+tags: []
+user_id: runner
