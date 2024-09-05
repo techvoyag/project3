@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/4840d898fe23497ea885f3738b33e511/artifacts
+end_time: 1725498406407
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4840d898fe23497ea885f3738b33e511
+run_name: merciful-hawk-275
+run_uuid: 4840d898fe23497ea885f3738b33e511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725498406381
+status: 3
+tags: []
+user_id: runner
