@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/434e0ea8e7ea4e4da6349da226aeea13/artifacts
+end_time: 1725757931362
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 434e0ea8e7ea4e4da6349da226aeea13
+run_name: amazing-gnu-489
+run_uuid: 434e0ea8e7ea4e4da6349da226aeea13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725757931337
+status: 3
+tags: []
+user_id: runner
