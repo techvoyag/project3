@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/8f875b1c31f8418ca9fbb0c0218049bb/artifacts
+end_time: 1725844130559
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f875b1c31f8418ca9fbb0c0218049bb
+run_name: learned-dog-992
+run_uuid: 8f875b1c31f8418ca9fbb0c0218049bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725844130533
+status: 3
+tags: []
+user_id: runner
