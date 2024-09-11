@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/38f0485eb0e548498869a1a8fa19c7ff/artifacts
+end_time: 1726016816924
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38f0485eb0e548498869a1a8fa19c7ff
+run_name: learned-gnu-455
+run_uuid: 38f0485eb0e548498869a1a8fa19c7ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726016816899
+status: 3
+tags: []
+user_id: runner
