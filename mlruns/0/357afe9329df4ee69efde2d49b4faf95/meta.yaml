@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/357afe9329df4ee69efde2d49b4faf95/artifacts
+end_time: 1726189633598
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 357afe9329df4ee69efde2d49b4faf95
+run_name: wise-crab-628
+run_uuid: 357afe9329df4ee69efde2d49b4faf95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726189633572
+status: 3
+tags: []
+user_id: runner
