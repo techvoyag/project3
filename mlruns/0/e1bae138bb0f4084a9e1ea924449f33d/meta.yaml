@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/e1bae138bb0f4084a9e1ea924449f33d/artifacts
+end_time: 1726275980851
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1bae138bb0f4084a9e1ea924449f33d
+run_name: upbeat-turtle-586
+run_uuid: e1bae138bb0f4084a9e1ea924449f33d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726275980825
+status: 3
+tags: []
+user_id: runner
