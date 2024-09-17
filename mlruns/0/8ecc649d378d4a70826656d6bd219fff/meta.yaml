@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/8ecc649d378d4a70826656d6bd219fff/artifacts
+end_time: 1726534587347
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ecc649d378d4a70826656d6bd219fff
+run_name: dapper-horse-602
+run_uuid: 8ecc649d378d4a70826656d6bd219fff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726534587322
+status: 3
+tags: []
+user_id: runner
