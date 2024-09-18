@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/e55c54a741834000be7d746df7116e23/artifacts
+end_time: 1726621630059
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e55c54a741834000be7d746df7116e23
+run_name: defiant-lamb-942
+run_uuid: e55c54a741834000be7d746df7116e23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726621630033
+status: 3
+tags: []
+user_id: runner
