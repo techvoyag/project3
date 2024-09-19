@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/0b6b10e243434a78bc7f31185d6e5aa0/artifacts
+end_time: 1726708105295
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b6b10e243434a78bc7f31185d6e5aa0
+run_name: charming-seal-994
+run_uuid: 0b6b10e243434a78bc7f31185d6e5aa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726708105270
+status: 3
+tags: []
+user_id: runner
