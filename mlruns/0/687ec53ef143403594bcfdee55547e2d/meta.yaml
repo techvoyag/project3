@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/687ec53ef143403594bcfdee55547e2d/artifacts
+end_time: 1726880828278
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 687ec53ef143403594bcfdee55547e2d
+run_name: debonair-gull-787
+run_uuid: 687ec53ef143403594bcfdee55547e2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726880828252
+status: 3
+tags: []
+user_id: runner
