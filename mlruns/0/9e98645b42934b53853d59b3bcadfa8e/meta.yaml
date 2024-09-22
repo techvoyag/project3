@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/9e98645b42934b53853d59b3bcadfa8e/artifacts
+end_time: 1726967694998
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e98645b42934b53853d59b3bcadfa8e
+run_name: colorful-conch-668
+run_uuid: 9e98645b42934b53853d59b3bcadfa8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726967694973
+status: 3
+tags: []
+user_id: runner
