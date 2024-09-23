@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/02e3695c10184ca1be4c5464bc92a366/artifacts
+end_time: 1727053830548
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02e3695c10184ca1be4c5464bc92a366
+run_name: skittish-calf-566
+run_uuid: 02e3695c10184ca1be4c5464bc92a366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727053830522
+status: 3
+tags: []
+user_id: runner
