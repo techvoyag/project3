@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/0529b35ebd8547d79666916ebbcdb86b/artifacts
+end_time: 1727140237210
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0529b35ebd8547d79666916ebbcdb86b
+run_name: rumbling-snake-107
+run_uuid: 0529b35ebd8547d79666916ebbcdb86b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727140237185
+status: 3
+tags: []
+user_id: runner
