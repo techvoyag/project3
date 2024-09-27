@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/0064fc576fee4464b4405fd46b805cda/artifacts
+end_time: 1727399428455
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0064fc576fee4464b4405fd46b805cda
+run_name: agreeable-rook-62
+run_uuid: 0064fc576fee4464b4405fd46b805cda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727399428430
+status: 3
+tags: []
+user_id: runner
