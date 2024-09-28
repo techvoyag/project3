@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/d920b0f1b4874b2c9a653f3d22145c15/artifacts
+end_time: 1727485793617
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d920b0f1b4874b2c9a653f3d22145c15
+run_name: blushing-wolf-720
+run_uuid: d920b0f1b4874b2c9a653f3d22145c15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727485793582
+status: 3
+tags: []
+user_id: runner
