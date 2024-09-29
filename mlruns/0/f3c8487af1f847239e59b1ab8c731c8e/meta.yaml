@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/f3c8487af1f847239e59b1ab8c731c8e/artifacts
+end_time: 1727572549577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3c8487af1f847239e59b1ab8c731c8e
+run_name: ambitious-deer-752
+run_uuid: f3c8487af1f847239e59b1ab8c731c8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727572549551
+status: 3
+tags: []
+user_id: runner
