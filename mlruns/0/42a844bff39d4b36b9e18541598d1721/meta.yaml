@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/42a844bff39d4b36b9e18541598d1721/artifacts
+end_time: 1727745422324
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42a844bff39d4b36b9e18541598d1721
+run_name: bald-wasp-758
+run_uuid: 42a844bff39d4b36b9e18541598d1721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727745422298
+status: 3
+tags: []
+user_id: runner
