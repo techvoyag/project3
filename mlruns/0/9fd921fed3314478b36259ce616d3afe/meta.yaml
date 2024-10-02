@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/9fd921fed3314478b36259ce616d3afe/artifacts
+end_time: 1727831430168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9fd921fed3314478b36259ce616d3afe
+run_name: stylish-deer-365
+run_uuid: 9fd921fed3314478b36259ce616d3afe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727831430143
+status: 3
+tags: []
+user_id: runner
