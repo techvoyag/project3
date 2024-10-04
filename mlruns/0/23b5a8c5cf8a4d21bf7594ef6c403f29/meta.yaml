@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/23b5a8c5cf8a4d21bf7594ef6c403f29/artifacts
+end_time: 1728004231060
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23b5a8c5cf8a4d21bf7594ef6c403f29
+run_name: big-slug-640
+run_uuid: 23b5a8c5cf8a4d21bf7594ef6c403f29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728004231035
+status: 3
+tags: []
+user_id: runner
