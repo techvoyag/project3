@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/66656c8d7ca748e0981b30ad2103842d/artifacts
+end_time: 1728090572221
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66656c8d7ca748e0981b30ad2103842d
+run_name: bald-dog-520
+run_uuid: 66656c8d7ca748e0981b30ad2103842d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728090572196
+status: 3
+tags: []
+user_id: runner
