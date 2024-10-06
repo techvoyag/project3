@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/2611de755ee645ff84d71bf8c789c48c/artifacts
+end_time: 1728177325440
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2611de755ee645ff84d71bf8c789c48c
+run_name: rumbling-hound-264
+run_uuid: 2611de755ee645ff84d71bf8c789c48c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728177325415
+status: 3
+tags: []
+user_id: runner
