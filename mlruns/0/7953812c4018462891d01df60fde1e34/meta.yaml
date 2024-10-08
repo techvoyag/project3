@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/7953812c4018462891d01df60fde1e34/artifacts
+end_time: 1728349822779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7953812c4018462891d01df60fde1e34
+run_name: adorable-fowl-13
+run_uuid: 7953812c4018462891d01df60fde1e34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728349822754
+status: 3
+tags: []
+user_id: runner
