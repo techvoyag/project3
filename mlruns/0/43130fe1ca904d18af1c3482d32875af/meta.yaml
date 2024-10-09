@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/43130fe1ca904d18af1c3482d32875af/artifacts
+end_time: 1728436204930
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43130fe1ca904d18af1c3482d32875af
+run_name: bittersweet-fly-869
+run_uuid: 43130fe1ca904d18af1c3482d32875af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728436204905
+status: 3
+tags: []
+user_id: runner
