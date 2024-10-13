@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/a6c061c3f8e643e68aa65f635a4fa7c7/artifacts
+end_time: 1728782111881
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6c061c3f8e643e68aa65f635a4fa7c7
+run_name: lyrical-mule-85
+run_uuid: a6c061c3f8e643e68aa65f635a4fa7c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728782111854
+status: 3
+tags: []
+user_id: runner
