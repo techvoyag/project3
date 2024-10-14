@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/d07c6ee4f4a24f699179a2babc085276/artifacts
+end_time: 1728868352488
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d07c6ee4f4a24f699179a2babc085276
+run_name: bustling-stag-20
+run_uuid: d07c6ee4f4a24f699179a2babc085276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728868352462
+status: 3
+tags: []
+user_id: runner
