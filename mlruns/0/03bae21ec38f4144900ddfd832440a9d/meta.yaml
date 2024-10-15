@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/03bae21ec38f4144900ddfd832440a9d/artifacts
+end_time: 1728954689617
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03bae21ec38f4144900ddfd832440a9d
+run_name: worried-cat-366
+run_uuid: 03bae21ec38f4144900ddfd832440a9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728954689591
+status: 3
+tags: []
+user_id: runner
