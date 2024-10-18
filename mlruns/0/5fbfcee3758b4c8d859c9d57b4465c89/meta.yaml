@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/5fbfcee3758b4c8d859c9d57b4465c89/artifacts
+end_time: 1729213853280
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5fbfcee3758b4c8d859c9d57b4465c89
+run_name: powerful-swan-877
+run_uuid: 5fbfcee3758b4c8d859c9d57b4465c89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729213853253
+status: 3
+tags: []
+user_id: runner
