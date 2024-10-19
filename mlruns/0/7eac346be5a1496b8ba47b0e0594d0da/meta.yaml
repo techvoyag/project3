@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/7eac346be5a1496b8ba47b0e0594d0da/artifacts
+end_time: 1729300204150
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7eac346be5a1496b8ba47b0e0594d0da
+run_name: brawny-robin-606
+run_uuid: 7eac346be5a1496b8ba47b0e0594d0da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729300204124
+status: 3
+tags: []
+user_id: runner
