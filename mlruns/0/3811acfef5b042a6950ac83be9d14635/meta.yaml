@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/3811acfef5b042a6950ac83be9d14635/artifacts
+end_time: 1729732241901
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3811acfef5b042a6950ac83be9d14635
+run_name: beautiful-tern-14
+run_uuid: 3811acfef5b042a6950ac83be9d14635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729732241875
+status: 3
+tags: []
+user_id: runner
