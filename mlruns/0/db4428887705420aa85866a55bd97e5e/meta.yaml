@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/db4428887705420aa85866a55bd97e5e/artifacts
+end_time: 1729904951175
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db4428887705420aa85866a55bd97e5e
+run_name: grandiose-foal-658
+run_uuid: db4428887705420aa85866a55bd97e5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729904951149
+status: 3
+tags: []
+user_id: runner
