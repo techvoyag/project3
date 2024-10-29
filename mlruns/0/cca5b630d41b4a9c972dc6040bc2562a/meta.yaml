@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/cca5b630d41b4a9c972dc6040bc2562a/artifacts
+end_time: 1730164356059
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cca5b630d41b4a9c972dc6040bc2562a
+run_name: sincere-ape-433
+run_uuid: cca5b630d41b4a9c972dc6040bc2562a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730164356032
+status: 3
+tags: []
+user_id: runner
