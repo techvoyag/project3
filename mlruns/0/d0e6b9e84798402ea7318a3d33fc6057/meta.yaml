@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/d0e6b9e84798402ea7318a3d33fc6057/artifacts
+end_time: 1730250701782
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0e6b9e84798402ea7318a3d33fc6057
+run_name: aged-rook-979
+run_uuid: d0e6b9e84798402ea7318a3d33fc6057
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730250701756
+status: 3
+tags: []
+user_id: runner
