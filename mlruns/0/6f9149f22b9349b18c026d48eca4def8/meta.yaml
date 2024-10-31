@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/6f9149f22b9349b18c026d48eca4def8/artifacts
+end_time: 1730337134523
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f9149f22b9349b18c026d48eca4def8
+run_name: loud-eel-274
+run_uuid: 6f9149f22b9349b18c026d48eca4def8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730337134496
+status: 3
+tags: []
+user_id: runner
