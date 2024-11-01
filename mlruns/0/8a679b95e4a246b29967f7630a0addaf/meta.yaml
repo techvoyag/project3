@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/8a679b95e4a246b29967f7630a0addaf/artifacts
+end_time: 1730423796874
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a679b95e4a246b29967f7630a0addaf
+run_name: resilient-steed-492
+run_uuid: 8a679b95e4a246b29967f7630a0addaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730423796848
+status: 3
+tags: []
+user_id: runner
