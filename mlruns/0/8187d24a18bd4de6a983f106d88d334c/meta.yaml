@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/8187d24a18bd4de6a983f106d88d334c/artifacts
+end_time: 1730596544767
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8187d24a18bd4de6a983f106d88d334c
+run_name: monumental-ant-520
+run_uuid: 8187d24a18bd4de6a983f106d88d334c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730596544740
+status: 3
+tags: []
+user_id: runner
