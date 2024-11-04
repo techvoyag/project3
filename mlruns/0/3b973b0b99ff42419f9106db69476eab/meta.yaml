@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/3b973b0b99ff42419f9106db69476eab/artifacts
+end_time: 1730682784966
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b973b0b99ff42419f9106db69476eab
+run_name: monumental-bear-88
+run_uuid: 3b973b0b99ff42419f9106db69476eab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730682784939
+status: 3
+tags: []
+user_id: runner
