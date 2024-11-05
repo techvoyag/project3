@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/37535aaafb5e4584b93d8fb53c5d566c/artifacts
+end_time: 1730768983012
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 37535aaafb5e4584b93d8fb53c5d566c
+run_name: bold-sponge-977
+run_uuid: 37535aaafb5e4584b93d8fb53c5d566c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730768982986
+status: 3
+tags: []
+user_id: runner
