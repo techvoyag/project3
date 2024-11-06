@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/86cba66a0b0d49588a0b411717bc3694/artifacts
+end_time: 1730855369932
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86cba66a0b0d49588a0b411717bc3694
+run_name: monumental-seal-599
+run_uuid: 86cba66a0b0d49588a0b411717bc3694
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730855369905
+status: 3
+tags: []
+user_id: runner
