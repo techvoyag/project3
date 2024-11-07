@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/883205392c1d4bcb8c4aac798da66bae/artifacts
+end_time: 1730941801554
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 883205392c1d4bcb8c4aac798da66bae
+run_name: tasteful-cub-33
+run_uuid: 883205392c1d4bcb8c4aac798da66bae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730941801529
+status: 3
+tags: []
+user_id: runner
