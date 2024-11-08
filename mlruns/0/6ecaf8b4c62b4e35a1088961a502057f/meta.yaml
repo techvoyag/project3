@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/6ecaf8b4c62b4e35a1088961a502057f/artifacts
+end_time: 1731028187148
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ecaf8b4c62b4e35a1088961a502057f
+run_name: classy-grouse-32
+run_uuid: 6ecaf8b4c62b4e35a1088961a502057f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731028187121
+status: 3
+tags: []
+user_id: runner
