@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/da5ed343ae06404ea15d5b960bc30773/artifacts
+end_time: 1731114468696
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da5ed343ae06404ea15d5b960bc30773
+run_name: victorious-moth-926
+run_uuid: da5ed343ae06404ea15d5b960bc30773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731114468670
+status: 3
+tags: []
+user_id: runner
