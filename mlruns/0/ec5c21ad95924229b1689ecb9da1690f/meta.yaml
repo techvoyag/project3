@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/ec5c21ad95924229b1689ecb9da1690f/artifacts
+end_time: 1731287483379
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec5c21ad95924229b1689ecb9da1690f
+run_name: thoughtful-goose-354
+run_uuid: ec5c21ad95924229b1689ecb9da1690f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731287483353
+status: 3
+tags: []
+user_id: runner
