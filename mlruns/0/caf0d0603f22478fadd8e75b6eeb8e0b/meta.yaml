@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/caf0d0603f22478fadd8e75b6eeb8e0b/artifacts
+end_time: 1731460232568
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: caf0d0603f22478fadd8e75b6eeb8e0b
+run_name: redolent-duck-151
+run_uuid: caf0d0603f22478fadd8e75b6eeb8e0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731460232542
+status: 3
+tags: []
+user_id: runner
