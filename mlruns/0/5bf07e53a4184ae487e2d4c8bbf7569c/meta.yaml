@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/5bf07e53a4184ae487e2d4c8bbf7569c/artifacts
+end_time: 1731546628660
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5bf07e53a4184ae487e2d4c8bbf7569c
+run_name: bittersweet-toad-662
+run_uuid: 5bf07e53a4184ae487e2d4c8bbf7569c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731546628633
+status: 3
+tags: []
+user_id: runner
