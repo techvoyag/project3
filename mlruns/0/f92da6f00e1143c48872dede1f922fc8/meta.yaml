@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/f92da6f00e1143c48872dede1f922fc8/artifacts
+end_time: 1731633291293
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f92da6f00e1143c48872dede1f922fc8
+run_name: unequaled-swan-914
+run_uuid: f92da6f00e1143c48872dede1f922fc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731633291267
+status: 3
+tags: []
+user_id: runner
