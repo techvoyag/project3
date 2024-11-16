@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/59095760cdcf4a9b88013a3c25021461/artifacts
+end_time: 1731719595683
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59095760cdcf4a9b88013a3c25021461
+run_name: popular-carp-103
+run_uuid: 59095760cdcf4a9b88013a3c25021461
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731719595657
+status: 3
+tags: []
+user_id: runner
