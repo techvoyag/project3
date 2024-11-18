@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/ab66b23e1032475bb5328bb9b9e1fb79/artifacts
+end_time: 1731892568599
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab66b23e1032475bb5328bb9b9e1fb79
+run_name: masked-midge-728
+run_uuid: ab66b23e1032475bb5328bb9b9e1fb79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731892568573
+status: 3
+tags: []
+user_id: runner
