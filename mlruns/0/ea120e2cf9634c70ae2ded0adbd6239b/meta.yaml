@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/ea120e2cf9634c70ae2ded0adbd6239b/artifacts
+end_time: 1731978915360
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea120e2cf9634c70ae2ded0adbd6239b
+run_name: lyrical-penguin-326
+run_uuid: ea120e2cf9634c70ae2ded0adbd6239b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731978915332
+status: 3
+tags: []
+user_id: runner
