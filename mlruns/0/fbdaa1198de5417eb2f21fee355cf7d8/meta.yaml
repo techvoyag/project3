@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/fbdaa1198de5417eb2f21fee355cf7d8/artifacts
+end_time: 1732151642728
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fbdaa1198de5417eb2f21fee355cf7d8
+run_name: vaunted-snail-789
+run_uuid: fbdaa1198de5417eb2f21fee355cf7d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732151642701
+status: 3
+tags: []
+user_id: runner
