@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/953c8b91c41f4fadb8c4fcb9abcc3f97/artifacts
+end_time: 1732411122816
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 953c8b91c41f4fadb8c4fcb9abcc3f97
+run_name: classy-rook-265
+run_uuid: 953c8b91c41f4fadb8c4fcb9abcc3f97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732411122789
+status: 3
+tags: []
+user_id: runner
