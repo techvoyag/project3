@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/df48fa6645e5405c83472d87715b50b1/artifacts
+end_time: 1732583700994
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df48fa6645e5405c83472d87715b50b1
+run_name: sneaky-wren-396
+run_uuid: df48fa6645e5405c83472d87715b50b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732583700967
+status: 3
+tags: []
+user_id: runner
