@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/e498c7a0acec401aa21cc04a56db23c9/artifacts
+end_time: 1733102304247
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e498c7a0acec401aa21cc04a56db23c9
+run_name: upbeat-swan-342
+run_uuid: e498c7a0acec401aa21cc04a56db23c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733102304220
+status: 3
+tags: []
+user_id: runner
