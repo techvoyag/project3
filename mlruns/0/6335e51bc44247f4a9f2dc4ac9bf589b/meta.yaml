@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/6335e51bc44247f4a9f2dc4ac9bf589b/artifacts
+end_time: 1733188654031
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6335e51bc44247f4a9f2dc4ac9bf589b
+run_name: omniscient-skink-299
+run_uuid: 6335e51bc44247f4a9f2dc4ac9bf589b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733188654003
+status: 3
+tags: []
+user_id: runner
