@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/33478c2f37614c3ab74dc369c7ee3cdd/artifacts
+end_time: 1733707161997
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33478c2f37614c3ab74dc369c7ee3cdd
+run_name: mercurial-crow-595
+run_uuid: 33478c2f37614c3ab74dc369c7ee3cdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733707161971
+status: 3
+tags: []
+user_id: runner
