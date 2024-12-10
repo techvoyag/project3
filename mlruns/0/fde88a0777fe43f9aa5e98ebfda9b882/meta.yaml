@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/fde88a0777fe43f9aa5e98ebfda9b882/artifacts
+end_time: 1733793508044
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fde88a0777fe43f9aa5e98ebfda9b882
+run_name: inquisitive-slug-331
+run_uuid: fde88a0777fe43f9aa5e98ebfda9b882
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733793508015
+status: 3
+tags: []
+user_id: runner
