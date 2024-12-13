@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/0a46e624c22d41a4b0340b32698e54ab/artifacts
+end_time: 1734052698822
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a46e624c22d41a4b0340b32698e54ab
+run_name: big-zebra-161
+run_uuid: 0a46e624c22d41a4b0340b32698e54ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734052698793
+status: 3
+tags: []
+user_id: runner
