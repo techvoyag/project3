@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/3cae744221fc4ffca842e3c74af9a985/artifacts
+end_time: 1734138897651
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3cae744221fc4ffca842e3c74af9a985
+run_name: legendary-shoat-746
+run_uuid: 3cae744221fc4ffca842e3c74af9a985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734138897622
+status: 3
+tags: []
+user_id: runner
