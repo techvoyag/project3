@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/66cd8964a5f343b9aaa7e345965be3f0/artifacts
+end_time: 1734311984158
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66cd8964a5f343b9aaa7e345965be3f0
+run_name: angry-midge-946
+run_uuid: 66cd8964a5f343b9aaa7e345965be3f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734311984129
+status: 3
+tags: []
+user_id: runner
