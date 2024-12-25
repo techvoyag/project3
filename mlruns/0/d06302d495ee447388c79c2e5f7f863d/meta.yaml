@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/d06302d495ee447388c79c2e5f7f863d/artifacts
+end_time: 1735089018163
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d06302d495ee447388c79c2e5f7f863d
+run_name: wise-flea-187
+run_uuid: d06302d495ee447388c79c2e5f7f863d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735089018133
+status: 3
+tags: []
+user_id: runner
