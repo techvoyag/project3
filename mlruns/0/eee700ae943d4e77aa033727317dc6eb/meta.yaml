@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/eee700ae943d4e77aa033727317dc6eb/artifacts
+end_time: 1735261859288
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eee700ae943d4e77aa033727317dc6eb
+run_name: resilient-foal-345
+run_uuid: eee700ae943d4e77aa033727317dc6eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735261859259
+status: 3
+tags: []
+user_id: runner
