@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/4dd68ab6ccb04ecd82dec21a3c738433/artifacts
+end_time: 1735435036567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4dd68ab6ccb04ecd82dec21a3c738433
+run_name: valuable-mink-351
+run_uuid: 4dd68ab6ccb04ecd82dec21a3c738433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735435036537
+status: 3
+tags: []
+user_id: runner
