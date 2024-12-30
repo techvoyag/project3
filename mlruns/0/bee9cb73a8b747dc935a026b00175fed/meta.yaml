@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/bee9cb73a8b747dc935a026b00175fed/artifacts
+end_time: 1735521196278
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bee9cb73a8b747dc935a026b00175fed
+run_name: rebellious-frog-915
+run_uuid: bee9cb73a8b747dc935a026b00175fed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735521196249
+status: 3
+tags: []
+user_id: runner
