@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/531650d15c874e3597c49176c516b025/artifacts
+end_time: 1735694212957
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 531650d15c874e3597c49176c516b025
+run_name: gregarious-ram-924
+run_uuid: 531650d15c874e3597c49176c516b025
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735694212927
+status: 3
+tags: []
+user_id: runner
