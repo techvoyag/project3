@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/8c54800272d44f2d8d25bf7642e8595a/artifacts
+end_time: 1735780219815
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c54800272d44f2d8d25bf7642e8595a
+run_name: secretive-cod-72
+run_uuid: 8c54800272d44f2d8d25bf7642e8595a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735780219785
+status: 3
+tags: []
+user_id: runner
