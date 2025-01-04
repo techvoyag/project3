@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/069c969ec7e6413abe0c0b14c3955d71/artifacts
+end_time: 1735952990415
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 069c969ec7e6413abe0c0b14c3955d71
+run_name: powerful-moose-52
+run_uuid: 069c969ec7e6413abe0c0b14c3955d71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735952990385
+status: 3
+tags: []
+user_id: runner
