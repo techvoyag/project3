@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/fa5e7c622a0e4638a2098f7be1987e00/artifacts
+end_time: 1736039803242
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa5e7c622a0e4638a2098f7be1987e00
+run_name: auspicious-swan-240
+run_uuid: fa5e7c622a0e4638a2098f7be1987e00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736039803213
+status: 3
+tags: []
+user_id: runner
