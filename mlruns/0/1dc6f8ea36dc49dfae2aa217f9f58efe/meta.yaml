@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/1dc6f8ea36dc49dfae2aa217f9f58efe/artifacts
+end_time: 1736126063971
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1dc6f8ea36dc49dfae2aa217f9f58efe
+run_name: puzzled-swan-89
+run_uuid: 1dc6f8ea36dc49dfae2aa217f9f58efe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736126063941
+status: 3
+tags: []
+user_id: runner
