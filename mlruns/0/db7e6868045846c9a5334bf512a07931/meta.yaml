@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/db7e6868045846c9a5334bf512a07931/artifacts
+end_time: 1736557900520
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db7e6868045846c9a5334bf512a07931
+run_name: nervous-horse-43
+run_uuid: db7e6868045846c9a5334bf512a07931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736557900491
+status: 3
+tags: []
+user_id: runner
