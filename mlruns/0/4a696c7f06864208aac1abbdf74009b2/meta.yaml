@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/4a696c7f06864208aac1abbdf74009b2/artifacts
+end_time: 1736903385018
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a696c7f06864208aac1abbdf74009b2
+run_name: polite-bat-77
+run_uuid: 4a696c7f06864208aac1abbdf74009b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736903384989
+status: 3
+tags: []
+user_id: runner
