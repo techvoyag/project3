@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/470f8ee5c5184ce29756adbb2a21e49f/artifacts
+end_time: 1737076133121
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 470f8ee5c5184ce29756adbb2a21e49f
+run_name: sneaky-finch-866
+run_uuid: 470f8ee5c5184ce29756adbb2a21e49f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737076133092
+status: 3
+tags: []
+user_id: runner
