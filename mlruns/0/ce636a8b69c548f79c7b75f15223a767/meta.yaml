@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/ce636a8b69c548f79c7b75f15223a767/artifacts
+end_time: 1737162416184
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce636a8b69c548f79c7b75f15223a767
+run_name: nosy-turtle-448
+run_uuid: ce636a8b69c548f79c7b75f15223a767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737162416156
+status: 3
+tags: []
+user_id: runner
