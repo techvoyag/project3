@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/5ff587bc0b2a41288dbe3780e3eac824/artifacts
+end_time: 1737249259911
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ff587bc0b2a41288dbe3780e3eac824
+run_name: fearless-bee-534
+run_uuid: 5ff587bc0b2a41288dbe3780e3eac824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737249259882
+status: 3
+tags: []
+user_id: runner
