@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/dc098260aed2411aad5fdd0b169be100/artifacts
+end_time: 1737421739292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc098260aed2411aad5fdd0b169be100
+run_name: rogue-midge-910
+run_uuid: dc098260aed2411aad5fdd0b169be100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737421739263
+status: 3
+tags: []
+user_id: runner
