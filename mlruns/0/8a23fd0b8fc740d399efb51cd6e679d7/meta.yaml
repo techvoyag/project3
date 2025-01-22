@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/8a23fd0b8fc740d399efb51cd6e679d7/artifacts
+end_time: 1737508265488
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a23fd0b8fc740d399efb51cd6e679d7
+run_name: enchanting-dog-181
+run_uuid: 8a23fd0b8fc740d399efb51cd6e679d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737508265460
+status: 3
+tags: []
+user_id: runner
