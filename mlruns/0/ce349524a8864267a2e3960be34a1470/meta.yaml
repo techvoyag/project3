@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/ce349524a8864267a2e3960be34a1470/artifacts
+end_time: 1737767151309
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce349524a8864267a2e3960be34a1470
+run_name: popular-bat-310
+run_uuid: ce349524a8864267a2e3960be34a1470
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737767151281
+status: 3
+tags: []
+user_id: runner
