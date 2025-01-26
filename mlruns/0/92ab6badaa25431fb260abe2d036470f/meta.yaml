@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/92ab6badaa25431fb260abe2d036470f/artifacts
+end_time: 1737853901521
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92ab6badaa25431fb260abe2d036470f
+run_name: marvelous-stag-634
+run_uuid: 92ab6badaa25431fb260abe2d036470f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737853901492
+status: 3
+tags: []
+user_id: runner
