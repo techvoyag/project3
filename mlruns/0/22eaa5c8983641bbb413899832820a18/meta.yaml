@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/22eaa5c8983641bbb413899832820a18/artifacts
+end_time: 1738285777319
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22eaa5c8983641bbb413899832820a18
+run_name: judicious-shrike-582
+run_uuid: 22eaa5c8983641bbb413899832820a18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738285777291
+status: 3
+tags: []
+user_id: runner
