@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/ac4bdf4bab5347caa2276bef71aadb53/artifacts
+end_time: 1738458777399
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac4bdf4bab5347caa2276bef71aadb53
+run_name: skittish-cow-894
+run_uuid: ac4bdf4bab5347caa2276bef71aadb53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738458777371
+status: 3
+tags: []
+user_id: runner
