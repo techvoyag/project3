@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/72062f5e4c704fc4ac019ddd7749f3ef/artifacts
+end_time: 1738631382105
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72062f5e4c704fc4ac019ddd7749f3ef
+run_name: amazing-croc-993
+run_uuid: 72062f5e4c704fc4ac019ddd7749f3ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738631382076
+status: 3
+tags: []
+user_id: runner
