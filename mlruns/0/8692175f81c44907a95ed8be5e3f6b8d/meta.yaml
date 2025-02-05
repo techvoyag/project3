@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/8692175f81c44907a95ed8be5e3f6b8d/artifacts
+end_time: 1738717835842
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8692175f81c44907a95ed8be5e3f6b8d
+run_name: merciful-calf-660
+run_uuid: 8692175f81c44907a95ed8be5e3f6b8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738717835813
+status: 3
+tags: []
+user_id: runner
