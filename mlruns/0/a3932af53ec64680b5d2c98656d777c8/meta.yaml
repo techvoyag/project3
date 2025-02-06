@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/a3932af53ec64680b5d2c98656d777c8/artifacts
+end_time: 1738804240580
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3932af53ec64680b5d2c98656d777c8
+run_name: valuable-zebra-997
+run_uuid: a3932af53ec64680b5d2c98656d777c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738804240552
+status: 3
+tags: []
+user_id: runner
