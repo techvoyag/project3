@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/ca1eb55864ad42b2a321e276c60a5e2d/artifacts
+end_time: 1739149906352
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca1eb55864ad42b2a321e276c60a5e2d
+run_name: sincere-sow-990
+run_uuid: ca1eb55864ad42b2a321e276c60a5e2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739149906323
+status: 3
+tags: []
+user_id: runner
