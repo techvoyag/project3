@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/1f17278ee2ad413d95a1e0c88936b490/artifacts
+end_time: 1739322635827
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f17278ee2ad413d95a1e0c88936b490
+run_name: adaptable-conch-109
+run_uuid: 1f17278ee2ad413d95a1e0c88936b490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739322635798
+status: 3
+tags: []
+user_id: runner
