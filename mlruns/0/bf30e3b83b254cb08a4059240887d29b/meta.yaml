@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/bf30e3b83b254cb08a4059240887d29b/artifacts
+end_time: 1739409062970
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf30e3b83b254cb08a4059240887d29b
+run_name: adorable-shark-690
+run_uuid: bf30e3b83b254cb08a4059240887d29b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739409062941
+status: 3
+tags: []
+user_id: runner
