@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/28a11cbfdfe34c6a8f9fd9f8ef613d7c/artifacts
+end_time: 1739581797627
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28a11cbfdfe34c6a8f9fd9f8ef613d7c
+run_name: thundering-mouse-411
+run_uuid: 28a11cbfdfe34c6a8f9fd9f8ef613d7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739581797597
+status: 3
+tags: []
+user_id: runner
