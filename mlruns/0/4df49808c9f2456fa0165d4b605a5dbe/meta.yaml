@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/4df49808c9f2456fa0165d4b605a5dbe/artifacts
+end_time: 1739668580654
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4df49808c9f2456fa0165d4b605a5dbe
+run_name: beautiful-hawk-66
+run_uuid: 4df49808c9f2456fa0165d4b605a5dbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739668580617
+status: 3
+tags: []
+user_id: runner
