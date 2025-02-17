@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/3b855ef37fca4bc6a3e3cafdcce64c5f/artifacts
+end_time: 1739754812211
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b855ef37fca4bc6a3e3cafdcce64c5f
+run_name: wise-wolf-477
+run_uuid: 3b855ef37fca4bc6a3e3cafdcce64c5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739754812182
+status: 3
+tags: []
+user_id: runner
