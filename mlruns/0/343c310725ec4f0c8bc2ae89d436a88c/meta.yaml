@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/343c310725ec4f0c8bc2ae89d436a88c/artifacts
+end_time: 1739841055047
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 343c310725ec4f0c8bc2ae89d436a88c
+run_name: efficient-lamb-316
+run_uuid: 343c310725ec4f0c8bc2ae89d436a88c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739841055018
+status: 3
+tags: []
+user_id: runner
