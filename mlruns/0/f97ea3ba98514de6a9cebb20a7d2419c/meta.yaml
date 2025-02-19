@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/f97ea3ba98514de6a9cebb20a7d2419c/artifacts
+end_time: 1739927481967
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f97ea3ba98514de6a9cebb20a7d2419c
+run_name: invincible-deer-764
+run_uuid: f97ea3ba98514de6a9cebb20a7d2419c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739927481935
+status: 3
+tags: []
+user_id: runner
