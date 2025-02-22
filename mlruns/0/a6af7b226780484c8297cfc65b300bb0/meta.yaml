@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/a6af7b226780484c8297cfc65b300bb0/artifacts
+end_time: 1740186572342
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6af7b226780484c8297cfc65b300bb0
+run_name: tasteful-finch-69
+run_uuid: a6af7b226780484c8297cfc65b300bb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740186572313
+status: 3
+tags: []
+user_id: runner
