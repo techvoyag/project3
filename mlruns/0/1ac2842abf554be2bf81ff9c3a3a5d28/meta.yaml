@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/1ac2842abf554be2bf81ff9c3a3a5d28/artifacts
+end_time: 1740273368382
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ac2842abf554be2bf81ff9c3a3a5d28
+run_name: languid-auk-874
+run_uuid: 1ac2842abf554be2bf81ff9c3a3a5d28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740273368353
+status: 3
+tags: []
+user_id: runner
