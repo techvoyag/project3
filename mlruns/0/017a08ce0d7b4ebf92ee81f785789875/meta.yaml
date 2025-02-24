@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/017a08ce0d7b4ebf92ee81f785789875/artifacts
+end_time: 1740359611321
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 017a08ce0d7b4ebf92ee81f785789875
+run_name: legendary-goat-78
+run_uuid: 017a08ce0d7b4ebf92ee81f785789875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740359611292
+status: 3
+tags: []
+user_id: runner
