@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/aaad7b0c217b46399e4db2a0ceaaabc2/artifacts
+end_time: 1740878225663
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aaad7b0c217b46399e4db2a0ceaaabc2
+run_name: rumbling-bug-774
+run_uuid: aaad7b0c217b46399e4db2a0ceaaabc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740878225633
+status: 3
+tags: []
+user_id: runner
