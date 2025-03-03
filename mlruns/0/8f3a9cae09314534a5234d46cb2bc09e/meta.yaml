@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/8f3a9cae09314534a5234d46cb2bc09e/artifacts
+end_time: 1740964516604
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f3a9cae09314534a5234d46cb2bc09e
+run_name: powerful-shad-482
+run_uuid: 8f3a9cae09314534a5234d46cb2bc09e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740964516575
+status: 3
+tags: []
+user_id: runner
