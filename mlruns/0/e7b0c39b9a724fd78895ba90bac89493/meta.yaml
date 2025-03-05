@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/e7b0c39b9a724fd78895ba90bac89493/artifacts
+end_time: 1741137235608
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7b0c39b9a724fd78895ba90bac89493
+run_name: nosy-mole-913
+run_uuid: e7b0c39b9a724fd78895ba90bac89493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741137235578
+status: 3
+tags: []
+user_id: runner
