@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/ce68e6013a79470ebd4bae6f249ff230/artifacts
+end_time: 1741223644283
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce68e6013a79470ebd4bae6f249ff230
+run_name: worried-sponge-503
+run_uuid: ce68e6013a79470ebd4bae6f249ff230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741223644253
+status: 3
+tags: []
+user_id: runner
