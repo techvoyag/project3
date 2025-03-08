@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/27c0019fa50847fcac7bb91c377130ec/artifacts
+end_time: 1741395559568
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27c0019fa50847fcac7bb91c377130ec
+run_name: efficient-gull-219
+run_uuid: 27c0019fa50847fcac7bb91c377130ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741395559540
+status: 3
+tags: []
+user_id: runner
