@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/e51e9e99ceb44d48b01e20d10e76953a/artifacts
+end_time: 1741568589339
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e51e9e99ceb44d48b01e20d10e76953a
+run_name: nebulous-croc-893
+run_uuid: e51e9e99ceb44d48b01e20d10e76953a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741568589308
+status: 3
+tags: []
+user_id: runner
