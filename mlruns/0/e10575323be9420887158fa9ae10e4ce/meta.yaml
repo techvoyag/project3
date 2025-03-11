@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/e10575323be9420887158fa9ae10e4ce/artifacts
+end_time: 1741655679707
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e10575323be9420887158fa9ae10e4ce
+run_name: classy-swan-561
+run_uuid: e10575323be9420887158fa9ae10e4ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741655679678
+status: 3
+tags: []
+user_id: runner
