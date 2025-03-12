@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/6897ecdff77747fdb4600cb5534ff38e/artifacts
+end_time: 1741742028940
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6897ecdff77747fdb4600cb5534ff38e
+run_name: luxuriant-fawn-754
+run_uuid: 6897ecdff77747fdb4600cb5534ff38e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741742028911
+status: 3
+tags: []
+user_id: runner
