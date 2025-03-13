@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/0ffe3b07bf4a4d299fc027e45f0846e2/artifacts
+end_time: 1741828508844
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ffe3b07bf4a4d299fc027e45f0846e2
+run_name: tasteful-lark-48
+run_uuid: 0ffe3b07bf4a4d299fc027e45f0846e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741828508815
+status: 3
+tags: []
+user_id: runner
