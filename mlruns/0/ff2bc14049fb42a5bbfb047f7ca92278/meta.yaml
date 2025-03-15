@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/ff2bc14049fb42a5bbfb047f7ca92278/artifacts
+end_time: 1742001186342
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff2bc14049fb42a5bbfb047f7ca92278
+run_name: omniscient-ant-424
+run_uuid: ff2bc14049fb42a5bbfb047f7ca92278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742001186313
+status: 3
+tags: []
+user_id: runner
