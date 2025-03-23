@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/a6093a544d364936ab78492a0af25a6d/artifacts
+end_time: 1742692814216
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6093a544d364936ab78492a0af25a6d
+run_name: luxuriant-gnat-552
+run_uuid: a6093a544d364936ab78492a0af25a6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742692814187
+status: 3
+tags: []
+user_id: runner
