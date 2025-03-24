@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/688ee5f336854f25bfbd845687b7d90a/artifacts
+end_time: 1742779062481
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 688ee5f336854f25bfbd845687b7d90a
+run_name: selective-skink-257
+run_uuid: 688ee5f336854f25bfbd845687b7d90a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742779062452
+status: 3
+tags: []
+user_id: runner
