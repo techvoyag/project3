@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/c062fe6a81694428bbf6ca18bb7e3059/artifacts
+end_time: 1742865392559
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c062fe6a81694428bbf6ca18bb7e3059
+run_name: carefree-fox-316
+run_uuid: c062fe6a81694428bbf6ca18bb7e3059
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742865392530
+status: 3
+tags: []
+user_id: runner
