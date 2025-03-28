@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/525a2f04fca84b5e91494efc695adbea/artifacts
+end_time: 1743124550563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 525a2f04fca84b5e91494efc695adbea
+run_name: gregarious-vole-24
+run_uuid: 525a2f04fca84b5e91494efc695adbea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743124550532
+status: 3
+tags: []
+user_id: runner
