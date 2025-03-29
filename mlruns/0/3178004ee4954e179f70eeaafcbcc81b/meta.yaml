@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/3178004ee4954e179f70eeaafcbcc81b/artifacts
+end_time: 1743210899569
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3178004ee4954e179f70eeaafcbcc81b
+run_name: merciful-doe-991
+run_uuid: 3178004ee4954e179f70eeaafcbcc81b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743210899539
+status: 3
+tags: []
+user_id: runner
