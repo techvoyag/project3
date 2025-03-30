@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/7311499131f042ac97e3d8b7d3725bfd/artifacts
+end_time: 1743297692770
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7311499131f042ac97e3d8b7d3725bfd
+run_name: legendary-cub-826
+run_uuid: 7311499131f042ac97e3d8b7d3725bfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743297692740
+status: 3
+tags: []
+user_id: runner
