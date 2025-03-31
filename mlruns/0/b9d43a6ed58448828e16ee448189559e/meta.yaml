@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/b9d43a6ed58448828e16ee448189559e/artifacts
+end_time: 1743383994655
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9d43a6ed58448828e16ee448189559e
+run_name: sedate-moose-768
+run_uuid: b9d43a6ed58448828e16ee448189559e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743383994625
+status: 3
+tags: []
+user_id: runner
