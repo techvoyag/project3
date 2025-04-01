@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/a5a3508212dc49329a263b895ef00747/artifacts
+end_time: 1743470693616
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5a3508212dc49329a263b895ef00747
+run_name: capricious-hog-532
+run_uuid: a5a3508212dc49329a263b895ef00747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743470693586
+status: 3
+tags: []
+user_id: runner
