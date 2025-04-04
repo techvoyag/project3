@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/ecd4cabc75b8428b87042f64e9aac623/artifacts
+end_time: 1743729368185
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ecd4cabc75b8428b87042f64e9aac623
+run_name: omniscient-sloth-872
+run_uuid: ecd4cabc75b8428b87042f64e9aac623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743729368155
+status: 3
+tags: []
+user_id: runner
