@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/b88f80d2b4974e03b9c6bbd9d1200c65/artifacts
+end_time: 1743815709340
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b88f80d2b4974e03b9c6bbd9d1200c65
+run_name: resilient-squid-395
+run_uuid: b88f80d2b4974e03b9c6bbd9d1200c65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743815709310
+status: 3
+tags: []
+user_id: runner
