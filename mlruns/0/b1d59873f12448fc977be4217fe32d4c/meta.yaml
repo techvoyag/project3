@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/b1d59873f12448fc977be4217fe32d4c/artifacts
+end_time: 1743988738234
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1d59873f12448fc977be4217fe32d4c
+run_name: stylish-sponge-986
+run_uuid: b1d59873f12448fc977be4217fe32d4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743988738204
+status: 3
+tags: []
+user_id: runner
