@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/42b763e76ec1489fb859ccc83e3cf80b/artifacts
+end_time: 1744075013681
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42b763e76ec1489fb859ccc83e3cf80b
+run_name: crawling-ant-580
+run_uuid: 42b763e76ec1489fb859ccc83e3cf80b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744075013652
+status: 3
+tags: []
+user_id: runner
