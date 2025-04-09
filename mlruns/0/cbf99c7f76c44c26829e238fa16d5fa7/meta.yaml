@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/cbf99c7f76c44c26829e238fa16d5fa7/artifacts
+end_time: 1744161409947
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cbf99c7f76c44c26829e238fa16d5fa7
+run_name: bald-owl-960
+run_uuid: cbf99c7f76c44c26829e238fa16d5fa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744161409918
+status: 3
+tags: []
+user_id: runner
