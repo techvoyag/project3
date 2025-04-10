@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/5aebb6e194ab4e938c9df16b4a62754b/artifacts
+end_time: 1744247801669
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5aebb6e194ab4e938c9df16b4a62754b
+run_name: mercurial-ant-16
+run_uuid: 5aebb6e194ab4e938c9df16b4a62754b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744247801640
+status: 3
+tags: []
+user_id: runner
