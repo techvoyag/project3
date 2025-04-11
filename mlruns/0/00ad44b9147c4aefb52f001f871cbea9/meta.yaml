@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/00ad44b9147c4aefb52f001f871cbea9/artifacts
+end_time: 1744334235677
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00ad44b9147c4aefb52f001f871cbea9
+run_name: painted-croc-78
+run_uuid: 00ad44b9147c4aefb52f001f871cbea9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744334235648
+status: 3
+tags: []
+user_id: runner
