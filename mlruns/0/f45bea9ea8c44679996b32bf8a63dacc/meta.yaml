@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/f45bea9ea8c44679996b32bf8a63dacc/artifacts
+end_time: 1744512278656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f45bea9ea8c44679996b32bf8a63dacc
+run_name: sneaky-eel-965
+run_uuid: f45bea9ea8c44679996b32bf8a63dacc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744512278626
+status: 3
+tags: []
+user_id: runner
