@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/8aaac17601444d97b448858fb0451594/artifacts
+end_time: 1744593610293
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8aaac17601444d97b448858fb0451594
+run_name: righteous-calf-452
+run_uuid: 8aaac17601444d97b448858fb0451594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744593610263
+status: 3
+tags: []
+user_id: runner
