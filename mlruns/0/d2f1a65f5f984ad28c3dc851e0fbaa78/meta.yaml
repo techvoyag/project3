@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/d2f1a65f5f984ad28c3dc851e0fbaa78/artifacts
+end_time: 1745198497956
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2f1a65f5f984ad28c3dc851e0fbaa78
+run_name: crawling-fawn-235
+run_uuid: d2f1a65f5f984ad28c3dc851e0fbaa78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745198497925
+status: 3
+tags: []
+user_id: runner
