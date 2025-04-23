@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/9bba6afd08164bf9b31d7d266e1d2818/artifacts
+end_time: 1745371109393
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bba6afd08164bf9b31d7d266e1d2818
+run_name: unique-fox-653
+run_uuid: 9bba6afd08164bf9b31d7d266e1d2818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745371109363
+status: 3
+tags: []
+user_id: runner
