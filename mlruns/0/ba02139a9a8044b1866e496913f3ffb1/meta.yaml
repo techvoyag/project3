@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/ba02139a9a8044b1866e496913f3ffb1/artifacts
+end_time: 1745457518490
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba02139a9a8044b1866e496913f3ffb1
+run_name: chill-tern-681
+run_uuid: ba02139a9a8044b1866e496913f3ffb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745457518460
+status: 3
+tags: []
+user_id: runner
