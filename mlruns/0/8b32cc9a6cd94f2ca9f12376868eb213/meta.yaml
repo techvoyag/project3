@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/8b32cc9a6cd94f2ca9f12376868eb213/artifacts
+end_time: 1745543960725
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b32cc9a6cd94f2ca9f12376868eb213
+run_name: invincible-snake-336
+run_uuid: 8b32cc9a6cd94f2ca9f12376868eb213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745543960694
+status: 3
+tags: []
+user_id: runner
