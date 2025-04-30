@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/9c11453317994e20adeef051e0d9aaa4/artifacts
+end_time: 1745975971726
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c11453317994e20adeef051e0d9aaa4
+run_name: agreeable-fox-384
+run_uuid: 9c11453317994e20adeef051e0d9aaa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745975971696
+status: 3
+tags: []
+user_id: runner
