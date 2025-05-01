@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/6fc7ae8644874e0f99db88b8a4912d67/artifacts
+end_time: 1746062768484
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6fc7ae8644874e0f99db88b8a4912d67
+run_name: melodic-sponge-716
+run_uuid: 6fc7ae8644874e0f99db88b8a4912d67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746062768455
+status: 3
+tags: []
+user_id: runner
