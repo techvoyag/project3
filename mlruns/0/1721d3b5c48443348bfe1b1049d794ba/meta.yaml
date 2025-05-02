@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/1721d3b5c48443348bfe1b1049d794ba/artifacts
+end_time: 1746148789668
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1721d3b5c48443348bfe1b1049d794ba
+run_name: lyrical-lark-303
+run_uuid: 1721d3b5c48443348bfe1b1049d794ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746148789638
+status: 3
+tags: []
+user_id: runner
