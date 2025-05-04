@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/f5ebcb4581374c289ae86c5ff4c3bf68/artifacts
+end_time: 1746322020743
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5ebcb4581374c289ae86c5ff4c3bf68
+run_name: blushing-vole-411
+run_uuid: f5ebcb4581374c289ae86c5ff4c3bf68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746322020713
+status: 3
+tags: []
+user_id: runner
