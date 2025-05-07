@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/cfe232bf301b4318901ba9bf2334b29c/artifacts
+end_time: 1746580846342
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfe232bf301b4318901ba9bf2334b29c
+run_name: burly-vole-577
+run_uuid: cfe232bf301b4318901ba9bf2334b29c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746580846312
+status: 3
+tags: []
+user_id: runner
