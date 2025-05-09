@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/73f35d8ebcd64ee4a49a8845e52c924d/artifacts
+end_time: 1746753631907
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73f35d8ebcd64ee4a49a8845e52c924d
+run_name: sincere-hare-972
+run_uuid: 73f35d8ebcd64ee4a49a8845e52c924d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746753631878
+status: 3
+tags: []
+user_id: runner
