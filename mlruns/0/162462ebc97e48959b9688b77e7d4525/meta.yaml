@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/162462ebc97e48959b9688b77e7d4525/artifacts
+end_time: 1746839876436
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 162462ebc97e48959b9688b77e7d4525
+run_name: thundering-midge-202
+run_uuid: 162462ebc97e48959b9688b77e7d4525
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746839876406
+status: 3
+tags: []
+user_id: runner
