@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/4bf8eabc60b643648d848e85ab1e3de7/artifacts
+end_time: 1746926728833
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4bf8eabc60b643648d848e85ab1e3de7
+run_name: merciful-sow-55
+run_uuid: 4bf8eabc60b643648d848e85ab1e3de7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746926728803
+status: 3
+tags: []
+user_id: runner
