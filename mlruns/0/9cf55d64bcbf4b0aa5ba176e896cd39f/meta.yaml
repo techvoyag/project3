@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/9cf55d64bcbf4b0aa5ba176e896cd39f/artifacts
+end_time: 1747099313138
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9cf55d64bcbf4b0aa5ba176e896cd39f
+run_name: amazing-elk-698
+run_uuid: 9cf55d64bcbf4b0aa5ba176e896cd39f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747099313108
+status: 3
+tags: []
+user_id: runner
