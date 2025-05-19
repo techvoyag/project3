@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/f1cf96e75cea44d0b85c7eb28b774ed0/artifacts
+end_time: 1747617902035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1cf96e75cea44d0b85c7eb28b774ed0
+run_name: beautiful-cow-509
+run_uuid: f1cf96e75cea44d0b85c7eb28b774ed0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747617902005
+status: 3
+tags: []
+user_id: runner
