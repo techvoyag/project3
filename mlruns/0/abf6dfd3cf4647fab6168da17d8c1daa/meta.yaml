@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/abf6dfd3cf4647fab6168da17d8c1daa/artifacts
+end_time: 1747876893021
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abf6dfd3cf4647fab6168da17d8c1daa
+run_name: vaunted-hog-973
+run_uuid: abf6dfd3cf4647fab6168da17d8c1daa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747876892992
+status: 3
+tags: []
+user_id: runner
