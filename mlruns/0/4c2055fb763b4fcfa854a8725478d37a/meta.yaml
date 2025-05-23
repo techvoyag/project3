@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/4c2055fb763b4fcfa854a8725478d37a/artifacts
+end_time: 1747963296300
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c2055fb763b4fcfa854a8725478d37a
+run_name: glamorous-horse-599
+run_uuid: 4c2055fb763b4fcfa854a8725478d37a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747963296270
+status: 3
+tags: []
+user_id: runner
