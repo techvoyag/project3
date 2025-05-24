@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/8093266085534af5b5fb4ad696e4d31c/artifacts
+end_time: 1748049541766
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8093266085534af5b5fb4ad696e4d31c
+run_name: delicate-chimp-214
+run_uuid: 8093266085534af5b5fb4ad696e4d31c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748049541736
+status: 3
+tags: []
+user_id: runner
