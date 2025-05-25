@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/90176566db1e4af0959ff980fa14fe83/artifacts
+end_time: 1748136517916
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90176566db1e4af0959ff980fa14fe83
+run_name: bold-carp-956
+run_uuid: 90176566db1e4af0959ff980fa14fe83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748136517886
+status: 3
+tags: []
+user_id: runner
