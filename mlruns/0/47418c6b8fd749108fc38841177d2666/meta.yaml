@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/47418c6b8fd749108fc38841177d2666/artifacts
+end_time: 1748222625032
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47418c6b8fd749108fc38841177d2666
+run_name: able-fowl-783
+run_uuid: 47418c6b8fd749108fc38841177d2666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748222625002
+status: 3
+tags: []
+user_id: runner
