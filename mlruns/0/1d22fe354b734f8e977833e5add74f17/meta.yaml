@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/1d22fe354b734f8e977833e5add74f17/artifacts
+end_time: 1748481731859
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d22fe354b734f8e977833e5add74f17
+run_name: wise-ox-68
+run_uuid: 1d22fe354b734f8e977833e5add74f17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748481731829
+status: 3
+tags: []
+user_id: runner
