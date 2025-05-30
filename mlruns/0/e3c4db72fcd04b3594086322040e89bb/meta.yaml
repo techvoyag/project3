@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/e3c4db72fcd04b3594086322040e89bb/artifacts
+end_time: 1748568021685
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3c4db72fcd04b3594086322040e89bb
+run_name: rogue-hog-647
+run_uuid: e3c4db72fcd04b3594086322040e89bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748568021654
+status: 3
+tags: []
+user_id: runner
