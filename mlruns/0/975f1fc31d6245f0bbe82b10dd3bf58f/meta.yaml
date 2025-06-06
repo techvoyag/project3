@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/975f1fc31d6245f0bbe82b10dd3bf58f/artifacts
+end_time: 1749172949652
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 975f1fc31d6245f0bbe82b10dd3bf58f
+run_name: aged-colt-119
+run_uuid: 975f1fc31d6245f0bbe82b10dd3bf58f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749172949623
+status: 3
+tags: []
+user_id: runner
