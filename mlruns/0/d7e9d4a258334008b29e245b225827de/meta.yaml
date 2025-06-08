@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/d7e9d4a258334008b29e245b225827de/artifacts
+end_time: 1749346692067
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7e9d4a258334008b29e245b225827de
+run_name: unleashed-wasp-326
+run_uuid: d7e9d4a258334008b29e245b225827de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749346692039
+status: 3
+tags: []
+user_id: runner
