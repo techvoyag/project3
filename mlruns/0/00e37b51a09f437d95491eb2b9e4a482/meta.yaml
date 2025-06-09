@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/00e37b51a09f437d95491eb2b9e4a482/artifacts
+end_time: 1749432439103
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00e37b51a09f437d95491eb2b9e4a482
+run_name: dazzling-ox-986
+run_uuid: 00e37b51a09f437d95491eb2b9e4a482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749432439073
+status: 3
+tags: []
+user_id: runner
