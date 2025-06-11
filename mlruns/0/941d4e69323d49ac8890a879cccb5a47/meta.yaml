@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/941d4e69323d49ac8890a879cccb5a47/artifacts
+end_time: 1749605052213
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 941d4e69323d49ac8890a879cccb5a47
+run_name: bemused-yak-934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749605052181
+status: 3
+tags: []
+user_id: runner
