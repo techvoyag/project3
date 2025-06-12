@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/6b1fca5d05d34126ab87292e0bbd7eac/artifacts
+end_time: 1749691365265
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b1fca5d05d34126ab87292e0bbd7eac
+run_name: fortunate-toad-920
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749691365233
+status: 3
+tags: []
+user_id: runner
