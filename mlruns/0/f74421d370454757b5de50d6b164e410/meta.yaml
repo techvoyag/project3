@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/f74421d370454757b5de50d6b164e410/artifacts
+end_time: 1749777834008
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f74421d370454757b5de50d6b164e410
+run_name: trusting-kit-508
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749777833975
+status: 3
+tags: []
+user_id: runner
