@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/55fb9026897c4c5487f12be06dff300a/artifacts
+end_time: 1749864052826
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55fb9026897c4c5487f12be06dff300a
+run_name: victorious-finch-179
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749864052791
+status: 3
+tags: []
+user_id: runner
