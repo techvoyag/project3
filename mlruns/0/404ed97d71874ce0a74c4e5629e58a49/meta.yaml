@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/404ed97d71874ce0a74c4e5629e58a49/artifacts
+end_time: 1750037177850
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 404ed97d71874ce0a74c4e5629e58a49
+run_name: intelligent-roo-446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750037177818
+status: 3
+tags: []
+user_id: runner
