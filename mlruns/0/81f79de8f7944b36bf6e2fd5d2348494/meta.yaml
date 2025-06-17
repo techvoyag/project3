@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/81f79de8f7944b36bf6e2fd5d2348494/artifacts
+end_time: 1750123453036
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81f79de8f7944b36bf6e2fd5d2348494
+run_name: youthful-finch-355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750123453004
+status: 3
+tags: []
+user_id: runner
