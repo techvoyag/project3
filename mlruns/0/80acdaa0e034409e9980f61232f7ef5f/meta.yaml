@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/80acdaa0e034409e9980f61232f7ef5f/artifacts
+end_time: 1750209790468
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80acdaa0e034409e9980f61232f7ef5f
+run_name: rebellious-asp-981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750209790435
+status: 3
+tags: []
+user_id: runner
