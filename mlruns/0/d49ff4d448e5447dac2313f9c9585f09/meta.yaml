@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/d49ff4d448e5447dac2313f9c9585f09/artifacts
+end_time: 1750296241137
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d49ff4d448e5447dac2313f9c9585f09
+run_name: worried-eel-685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750296241104
+status: 3
+tags: []
+user_id: runner
