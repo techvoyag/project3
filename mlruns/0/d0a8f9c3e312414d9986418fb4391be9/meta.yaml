@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/d0a8f9c3e312414d9986418fb4391be9/artifacts
+end_time: 1750556350179
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0a8f9c3e312414d9986418fb4391be9
+run_name: charming-carp-132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750556350146
+status: 3
+tags: []
+user_id: runner
