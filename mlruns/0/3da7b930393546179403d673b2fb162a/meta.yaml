@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/3da7b930393546179403d673b2fb162a/artifacts
+end_time: 1750642117763
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3da7b930393546179403d673b2fb162a
+run_name: likeable-mink-858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750642117731
+status: 3
+tags: []
+user_id: runner
