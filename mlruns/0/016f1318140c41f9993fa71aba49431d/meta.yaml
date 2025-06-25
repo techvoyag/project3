@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/016f1318140c41f9993fa71aba49431d/artifacts
+end_time: 1750814688926
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 016f1318140c41f9993fa71aba49431d
+run_name: gregarious-sow-656
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750814688893
+status: 3
+tags: []
+user_id: runner
