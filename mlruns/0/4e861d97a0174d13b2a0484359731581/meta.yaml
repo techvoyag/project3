@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/4e861d97a0174d13b2a0484359731581/artifacts
+end_time: 1750901026640
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e861d97a0174d13b2a0484359731581
+run_name: victorious-roo-729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750901026607
+status: 3
+tags: []
+user_id: runner
