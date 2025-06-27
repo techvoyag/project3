@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/1389413627274356b0bcf0d75505be37/artifacts
+end_time: 1750987478503
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1389413627274356b0bcf0d75505be37
+run_name: learned-conch-249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750987478471
+status: 3
+tags: []
+user_id: runner
