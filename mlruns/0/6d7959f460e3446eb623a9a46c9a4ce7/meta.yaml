@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/6d7959f460e3446eb623a9a46c9a4ce7/artifacts
+end_time: 1751073708170
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d7959f460e3446eb623a9a46c9a4ce7
+run_name: handsome-sloth-27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751073708138
+status: 3
+tags: []
+user_id: runner
