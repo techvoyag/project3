@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/4f7180d5a4814f5d9c30e150fcdd1a17/artifacts
+end_time: 1751246923194
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f7180d5a4814f5d9c30e150fcdd1a17
+run_name: debonair-hound-95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751246923161
+status: 3
+tags: []
+user_id: runner
