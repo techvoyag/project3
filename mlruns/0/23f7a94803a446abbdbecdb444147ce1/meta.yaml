@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/23f7a94803a446abbdbecdb444147ce1/artifacts
+end_time: 1751334172048
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23f7a94803a446abbdbecdb444147ce1
+run_name: sneaky-newt-656
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751334172016
+status: 3
+tags: []
+user_id: runner
