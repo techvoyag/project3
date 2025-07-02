@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/703778d2d29f4b75bf97fb1fab85faec/artifacts
+end_time: 1751419472823
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 703778d2d29f4b75bf97fb1fab85faec
+run_name: incongruous-gnu-474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751419472791
+status: 3
+tags: []
+user_id: runner
