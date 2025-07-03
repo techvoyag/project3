@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/29e4e84bf7a24dbba07d38e89afbdc95/artifacts
+end_time: 1751505866782
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29e4e84bf7a24dbba07d38e89afbdc95
+run_name: victorious-swan-460
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751505866750
+status: 3
+tags: []
+user_id: runner
