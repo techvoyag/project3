@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/a8e76bb4feae4455942bd478adc38288/artifacts
+end_time: 1751592245374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8e76bb4feae4455942bd478adc38288
+run_name: worried-snake-986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751592245342
+status: 3
+tags: []
+user_id: runner
