@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/bf49aac39d94442a8bcb5d109cdf4a8f/artifacts
+end_time: 1751851733670
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf49aac39d94442a8bcb5d109cdf4a8f
+run_name: valuable-mare-265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751851733637
+status: 3
+tags: []
+user_id: runner
