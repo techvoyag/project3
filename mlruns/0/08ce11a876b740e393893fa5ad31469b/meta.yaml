@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/08ce11a876b740e393893fa5ad31469b/artifacts
+end_time: 1752024355241
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08ce11a876b740e393893fa5ad31469b
+run_name: whimsical-perch-227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752024355208
+status: 3
+tags: []
+user_id: runner
