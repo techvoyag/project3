@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/01ac976f9f5f4a11b5fa8e7f43eb62e0/artifacts
+end_time: 1752110758838
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01ac976f9f5f4a11b5fa8e7f43eb62e0
+run_name: sassy-boar-711
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752110758804
+status: 3
+tags: []
+user_id: runner
