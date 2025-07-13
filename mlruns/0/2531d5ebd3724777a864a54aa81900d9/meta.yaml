@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/2531d5ebd3724777a864a54aa81900d9/artifacts
+end_time: 1752371016147
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2531d5ebd3724777a864a54aa81900d9
+run_name: intelligent-vole-933
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752371016114
+status: 3
+tags: []
+user_id: runner
