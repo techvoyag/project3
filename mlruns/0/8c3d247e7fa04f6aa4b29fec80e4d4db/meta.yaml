@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/8c3d247e7fa04f6aa4b29fec80e4d4db/artifacts
+end_time: 1752457208165
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c3d247e7fa04f6aa4b29fec80e4d4db
+run_name: carefree-ray-953
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752457208133
+status: 3
+tags: []
+user_id: runner
