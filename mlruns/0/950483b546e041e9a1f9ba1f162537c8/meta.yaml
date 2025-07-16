@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/950483b546e041e9a1f9ba1f162537c8/artifacts
+end_time: 1752629277694
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 950483b546e041e9a1f9ba1f162537c8
+run_name: bold-hawk-638
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752629277661
+status: 3
+tags: []
+user_id: runner
