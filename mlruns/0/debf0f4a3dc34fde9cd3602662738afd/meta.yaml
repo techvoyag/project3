@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/debf0f4a3dc34fde9cd3602662738afd/artifacts
+end_time: 1752715748193
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: debf0f4a3dc34fde9cd3602662738afd
+run_name: colorful-shad-801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752715748161
+status: 3
+tags: []
+user_id: runner
