@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/6b0c36de2463426f906ec74b164a42de/artifacts
+end_time: 1752802114318
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b0c36de2463426f906ec74b164a42de
+run_name: mercurial-boar-78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752802114285
+status: 3
+tags: []
+user_id: runner
