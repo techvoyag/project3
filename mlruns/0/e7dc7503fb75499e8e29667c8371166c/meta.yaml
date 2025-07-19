@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/e7dc7503fb75499e8e29667c8371166c/artifacts
+end_time: 1752888358926
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7dc7503fb75499e8e29667c8371166c
+run_name: fun-fowl-987
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752888358893
+status: 3
+tags: []
+user_id: runner
