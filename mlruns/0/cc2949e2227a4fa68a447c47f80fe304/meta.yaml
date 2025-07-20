@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/cc2949e2227a4fa68a447c47f80fe304/artifacts
+end_time: 1752975903231
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc2949e2227a4fa68a447c47f80fe304
+run_name: traveling-smelt-452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752975903198
+status: 3
+tags: []
+user_id: runner
