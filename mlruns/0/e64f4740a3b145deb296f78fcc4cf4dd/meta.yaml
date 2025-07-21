@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/e64f4740a3b145deb296f78fcc4cf4dd/artifacts
+end_time: 1753062181672
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e64f4740a3b145deb296f78fcc4cf4dd
+run_name: gaudy-steed-128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753062181640
+status: 3
+tags: []
+user_id: runner
