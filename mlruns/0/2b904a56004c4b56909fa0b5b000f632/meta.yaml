@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/2b904a56004c4b56909fa0b5b000f632/artifacts
+end_time: 1753147745100
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b904a56004c4b56909fa0b5b000f632
+run_name: rebellious-wren-488
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753147745067
+status: 3
+tags: []
+user_id: runner
