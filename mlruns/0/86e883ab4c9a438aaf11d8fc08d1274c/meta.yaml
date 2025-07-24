@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/86e883ab4c9a438aaf11d8fc08d1274c/artifacts
+end_time: 1753320568975
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86e883ab4c9a438aaf11d8fc08d1274c
+run_name: melodic-colt-107
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753320568942
+status: 3
+tags: []
+user_id: runner
