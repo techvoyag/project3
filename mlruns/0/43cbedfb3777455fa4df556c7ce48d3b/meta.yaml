@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/43cbedfb3777455fa4df556c7ce48d3b/artifacts
+end_time: 1753406936696
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43cbedfb3777455fa4df556c7ce48d3b
+run_name: bouncy-fowl-561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753406936663
+status: 3
+tags: []
+user_id: runner
