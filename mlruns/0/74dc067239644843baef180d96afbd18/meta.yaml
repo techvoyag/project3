@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/74dc067239644843baef180d96afbd18/artifacts
+end_time: 1753493210000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74dc067239644843baef180d96afbd18
+run_name: adorable-ray-185
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753493209967
+status: 3
+tags: []
+user_id: runner
