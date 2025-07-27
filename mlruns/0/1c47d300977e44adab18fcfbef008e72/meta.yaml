@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/1c47d300977e44adab18fcfbef008e72/artifacts
+end_time: 1753580748300
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c47d300977e44adab18fcfbef008e72
+run_name: unequaled-pig-616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753580748267
+status: 3
+tags: []
+user_id: runner
