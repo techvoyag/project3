@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/3338dc051ce5453bb390cd033d20930e/artifacts
+end_time: 1753753777353
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3338dc051ce5453bb390cd033d20930e
+run_name: learned-gull-172
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753753777319
+status: 3
+tags: []
+user_id: runner
