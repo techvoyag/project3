@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/609c574716034965bb0de39f3b691c95/artifacts
+end_time: 1753839627435
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 609c574716034965bb0de39f3b691c95
+run_name: illustrious-fawn-216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753839627402
+status: 3
+tags: []
+user_id: runner
