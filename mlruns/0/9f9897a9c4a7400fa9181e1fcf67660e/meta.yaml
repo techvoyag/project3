@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/9f9897a9c4a7400fa9181e1fcf67660e/artifacts
+end_time: 1753925978642
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f9897a9c4a7400fa9181e1fcf67660e
+run_name: valuable-grouse-333
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753925978610
+status: 3
+tags: []
+user_id: runner
