@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/1abdfc0e18744c7d830b6bf5580d5dc5/artifacts
+end_time: 1754185641165
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1abdfc0e18744c7d830b6bf5580d5dc5
+run_name: dapper-penguin-814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754185641132
+status: 3
+tags: []
+user_id: runner
