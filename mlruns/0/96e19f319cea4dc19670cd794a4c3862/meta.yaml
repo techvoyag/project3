@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/96e19f319cea4dc19670cd794a4c3862/artifacts
+end_time: 1754272042397
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96e19f319cea4dc19670cd794a4c3862
+run_name: glamorous-hawk-991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754272042364
+status: 3
+tags: []
+user_id: runner
