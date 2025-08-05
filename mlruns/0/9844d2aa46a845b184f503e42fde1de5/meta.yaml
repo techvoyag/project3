@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/9844d2aa46a845b184f503e42fde1de5/artifacts
+end_time: 1754358162209
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9844d2aa46a845b184f503e42fde1de5
+run_name: stately-turtle-775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754358162175
+status: 3
+tags: []
+user_id: runner
