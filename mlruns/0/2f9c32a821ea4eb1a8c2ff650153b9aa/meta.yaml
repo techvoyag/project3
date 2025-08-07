@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/2f9c32a821ea4eb1a8c2ff650153b9aa/artifacts
+end_time: 1754530868909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f9c32a821ea4eb1a8c2ff650153b9aa
+run_name: welcoming-skink-25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754530868877
+status: 3
+tags: []
+user_id: runner
