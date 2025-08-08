@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/30c46a196a1a41079f1c15e3832f1cd1/artifacts
+end_time: 1754617249778
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30c46a196a1a41079f1c15e3832f1cd1
+run_name: peaceful-horse-351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754617249746
+status: 3
+tags: []
+user_id: runner
