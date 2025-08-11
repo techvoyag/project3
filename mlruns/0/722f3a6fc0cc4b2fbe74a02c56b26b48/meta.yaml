@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/722f3a6fc0cc4b2fbe74a02c56b26b48/artifacts
+end_time: 1754876487626
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 722f3a6fc0cc4b2fbe74a02c56b26b48
+run_name: learned-yak-676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754876487593
+status: 3
+tags: []
+user_id: runner
