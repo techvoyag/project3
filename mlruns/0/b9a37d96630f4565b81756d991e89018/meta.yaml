@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/b9a37d96630f4565b81756d991e89018/artifacts
+end_time: 1754961790051
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9a37d96630f4565b81756d991e89018
+run_name: lyrical-stag-482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754961790017
+status: 3
+tags: []
+user_id: runner
