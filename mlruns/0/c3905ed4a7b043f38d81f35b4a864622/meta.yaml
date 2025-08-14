@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/c3905ed4a7b043f38d81f35b4a864622/artifacts
+end_time: 1755134699752
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3905ed4a7b043f38d81f35b4a864622
+run_name: painted-bat-311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755134699719
+status: 3
+tags: []
+user_id: runner
