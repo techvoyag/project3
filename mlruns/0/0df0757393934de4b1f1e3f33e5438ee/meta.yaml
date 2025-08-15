@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/0df0757393934de4b1f1e3f33e5438ee/artifacts
+end_time: 1755221137344
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0df0757393934de4b1f1e3f33e5438ee
+run_name: auspicious-wren-194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755221137311
+status: 3
+tags: []
+user_id: runner
