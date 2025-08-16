@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/7565f8cadb9c4a9ca5187bf887ae8bb0/artifacts
+end_time: 1755307287614
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7565f8cadb9c4a9ca5187bf887ae8bb0
+run_name: invincible-fish-474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755307287581
+status: 3
+tags: []
+user_id: runner
