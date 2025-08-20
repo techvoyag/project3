@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/92d1f4d924974bdc8f86da63ee8110de/artifacts
+end_time: 1755652769246
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92d1f4d924974bdc8f86da63ee8110de
+run_name: languid-moose-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755652769213
+status: 3
+tags: []
+user_id: runner
