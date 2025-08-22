@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/b1007376608347219d5fafbef8a1dae8/artifacts
+end_time: 1755825569613
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1007376608347219d5fafbef8a1dae8
+run_name: likeable-sloth-486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755825569580
+status: 3
+tags: []
+user_id: runner
