@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/17c0256608f240cab401af2e7bf5353c/artifacts
+end_time: 1755998866711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17c0256608f240cab401af2e7bf5353c
+run_name: skittish-elk-383
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755998866677
+status: 3
+tags: []
+user_id: runner
