@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/5ba377a839e94003ba6e1fea00cb34be/artifacts
+end_time: 1756084958809
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ba377a839e94003ba6e1fea00cb34be
+run_name: monumental-smelt-867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756084958773
+status: 3
+tags: []
+user_id: runner
