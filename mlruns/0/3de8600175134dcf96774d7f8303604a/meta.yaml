@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/3de8600175134dcf96774d7f8303604a/artifacts
+end_time: 1756171218939
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3de8600175134dcf96774d7f8303604a
+run_name: melodic-rat-201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756171218904
+status: 3
+tags: []
+user_id: runner
