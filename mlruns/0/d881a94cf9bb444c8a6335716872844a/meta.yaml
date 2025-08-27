@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/d881a94cf9bb444c8a6335716872844a/artifacts
+end_time: 1756257482581
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d881a94cf9bb444c8a6335716872844a
+run_name: adventurous-frog-374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756257482548
+status: 3
+tags: []
+user_id: runner
