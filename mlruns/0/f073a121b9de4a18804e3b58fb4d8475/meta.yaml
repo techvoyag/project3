@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/f073a121b9de4a18804e3b58fb4d8475/artifacts
+end_time: 1756516428249
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f073a121b9de4a18804e3b58fb4d8475
+run_name: magnificent-shad-340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756516428216
+status: 3
+tags: []
+user_id: runner
