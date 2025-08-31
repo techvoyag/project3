@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/71e4420a7a31477798377abb514beae8/artifacts
+end_time: 1756603330784
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 71e4420a7a31477798377abb514beae8
+run_name: casual-pug-367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756603330749
+status: 3
+tags: []
+user_id: runner
