@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/4a4df59de8db46ebb8f1583e05c62a97/artifacts
+end_time: 1756690139258
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a4df59de8db46ebb8f1583e05c62a97
+run_name: gaudy-boar-989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756690139223
+status: 3
+tags: []
+user_id: runner
