@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/52aba68917cd47808993b89471b9dac3/artifacts
+end_time: 1756775913804
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52aba68917cd47808993b89471b9dac3
+run_name: sassy-squid-813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756775913770
+status: 3
+tags: []
+user_id: runner
