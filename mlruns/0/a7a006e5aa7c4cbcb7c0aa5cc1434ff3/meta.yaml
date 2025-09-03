@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/a7a006e5aa7c4cbcb7c0aa5cc1434ff3/artifacts
+end_time: 1756862044636
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7a006e5aa7c4cbcb7c0aa5cc1434ff3
+run_name: gregarious-stoat-711
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756862044602
+status: 3
+tags: []
+user_id: runner
