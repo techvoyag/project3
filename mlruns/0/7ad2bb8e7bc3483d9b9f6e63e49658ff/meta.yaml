@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/7ad2bb8e7bc3483d9b9f6e63e49658ff/artifacts
+end_time: 1756948432006
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ad2bb8e7bc3483d9b9f6e63e49658ff
+run_name: zealous-mare-388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756948431972
+status: 3
+tags: []
+user_id: runner
