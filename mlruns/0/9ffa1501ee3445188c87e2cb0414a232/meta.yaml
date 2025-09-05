@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/9ffa1501ee3445188c87e2cb0414a232/artifacts
+end_time: 1757034931438
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ffa1501ee3445188c87e2cb0414a232
+run_name: persistent-ape-12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757034931404
+status: 3
+tags: []
+user_id: runner
