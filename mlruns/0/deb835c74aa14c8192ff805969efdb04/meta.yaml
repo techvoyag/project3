@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/deb835c74aa14c8192ff805969efdb04/artifacts
+end_time: 1757121217389
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: deb835c74aa14c8192ff805969efdb04
+run_name: capricious-mole-183
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757121217356
+status: 3
+tags: []
+user_id: runner
