@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/b4d3251cc9dd4c8fa8021907bf2b12f4/artifacts
+end_time: 1757208041912
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4d3251cc9dd4c8fa8021907bf2b12f4
+run_name: bustling-snake-194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757208041879
+status: 3
+tags: []
+user_id: runner
