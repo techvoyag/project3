@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/f82e1ac5cb3e42c897a380a805d3da2b/artifacts
+end_time: 1757294365156
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f82e1ac5cb3e42c897a380a805d3da2b
+run_name: exultant-bird-189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757294365122
+status: 3
+tags: []
+user_id: runner
