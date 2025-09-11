@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/47dd0325751843758ddbc9da211da500/artifacts
+end_time: 1757553379695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47dd0325751843758ddbc9da211da500
+run_name: sneaky-hen-795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757553379661
+status: 3
+tags: []
+user_id: runner
