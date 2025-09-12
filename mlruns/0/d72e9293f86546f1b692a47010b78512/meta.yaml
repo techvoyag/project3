@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/d72e9293f86546f1b692a47010b78512/artifacts
+end_time: 1757639617953
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d72e9293f86546f1b692a47010b78512
+run_name: mysterious-cat-225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757639617919
+status: 3
+tags: []
+user_id: runner
