@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/e5ed120e60e4408e9c88dff805a04861/artifacts
+end_time: 1757725847953
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5ed120e60e4408e9c88dff805a04861
+run_name: worried-ape-328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757725847919
+status: 3
+tags: []
+user_id: runner
