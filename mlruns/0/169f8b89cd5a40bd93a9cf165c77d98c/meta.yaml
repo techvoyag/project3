@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/169f8b89cd5a40bd93a9cf165c77d98c/artifacts
+end_time: 1757812809914
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 169f8b89cd5a40bd93a9cf165c77d98c
+run_name: crawling-crab-495
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757812809880
+status: 3
+tags: []
+user_id: runner
