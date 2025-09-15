@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/1e5a0596fa134ab5ab50897252054857/artifacts
+end_time: 1757899217542
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e5a0596fa134ab5ab50897252054857
+run_name: blushing-skunk-257
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757899217507
+status: 3
+tags: []
+user_id: runner
