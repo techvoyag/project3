@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/cc3cb99b72e248d5bd32c8312d26d0f2/artifacts
+end_time: 1757985282980
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc3cb99b72e248d5bd32c8312d26d0f2
+run_name: masked-fox-328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757985282944
+status: 3
+tags: []
+user_id: runner
