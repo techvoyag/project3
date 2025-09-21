@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/3429097892fa4cdcb81a886e5b3cc2ed/artifacts
+end_time: 1758417730845
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3429097892fa4cdcb81a886e5b3cc2ed
+run_name: auspicious-gnat-801
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758417730812
+status: 3
+tags: []
+user_id: runner
