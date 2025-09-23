@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/fddd6ae074894823b84eeec26ba533d5/artifacts
+end_time: 1758590112458
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fddd6ae074894823b84eeec26ba533d5
+run_name: aged-crane-115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758590112423
+status: 3
+tags: []
+user_id: runner
