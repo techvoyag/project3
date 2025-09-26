@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/959a8e9a9c89413d8b4d8700bf3416b1/artifacts
+end_time: 1758849353509
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 959a8e9a9c89413d8b4d8700bf3416b1
+run_name: suave-quail-389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758849353475
+status: 3
+tags: []
+user_id: runner
