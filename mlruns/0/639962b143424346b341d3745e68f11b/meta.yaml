@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/639962b143424346b341d3745e68f11b/artifacts
+end_time: 1758935591549
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 639962b143424346b341d3745e68f11b
+run_name: bustling-flea-953
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758935591522
+status: 3
+tags: []
+user_id: runner
