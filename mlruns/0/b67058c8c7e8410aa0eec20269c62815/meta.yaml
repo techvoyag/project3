@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/b67058c8c7e8410aa0eec20269c62815/artifacts
+end_time: 1759022585328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b67058c8c7e8410aa0eec20269c62815
+run_name: salty-fowl-737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759022585295
+status: 3
+tags: []
+user_id: runner
