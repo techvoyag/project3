@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/d65b48756b634bc48af97091a22664fb/artifacts
+end_time: 1759195032338
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d65b48756b634bc48af97091a22664fb
+run_name: respected-cod-843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759195032304
+status: 3
+tags: []
+user_id: runner
