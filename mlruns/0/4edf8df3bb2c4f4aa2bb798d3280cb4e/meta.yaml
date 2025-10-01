@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/4edf8df3bb2c4f4aa2bb798d3280cb4e/artifacts
+end_time: 1759281861000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4edf8df3bb2c4f4aa2bb798d3280cb4e
+run_name: gentle-yak-733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759281860953
+status: 3
+tags: []
+user_id: runner
