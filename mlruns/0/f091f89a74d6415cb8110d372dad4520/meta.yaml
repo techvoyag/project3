@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/f091f89a74d6415cb8110d372dad4520/artifacts
+end_time: 1759367668364
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f091f89a74d6415cb8110d372dad4520
+run_name: funny-panda-177
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759367668330
+status: 3
+tags: []
+user_id: runner
