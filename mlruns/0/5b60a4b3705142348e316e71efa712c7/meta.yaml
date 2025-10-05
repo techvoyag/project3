@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/5b60a4b3705142348e316e71efa712c7/artifacts
+end_time: 1759627341543
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b60a4b3705142348e316e71efa712c7
+run_name: masked-owl-203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759627341510
+status: 3
+tags: []
+user_id: runner
