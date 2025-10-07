@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/afae242f063345c9aba9c491c408d96b/artifacts
+end_time: 1759799727038
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: afae242f063345c9aba9c491c408d96b
+run_name: adaptable-loon-552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759799727005
+status: 3
+tags: []
+user_id: runner
