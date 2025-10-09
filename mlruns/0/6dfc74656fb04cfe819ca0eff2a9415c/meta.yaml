@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/6dfc74656fb04cfe819ca0eff2a9415c/artifacts
+end_time: 1759972558057
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6dfc74656fb04cfe819ca0eff2a9415c
+run_name: bold-elk-424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759972558022
+status: 3
+tags: []
+user_id: runner
