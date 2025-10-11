@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/bb156f5ed9bc4a6ea140eb82c2c769d3/artifacts
+end_time: 1760145207572
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb156f5ed9bc4a6ea140eb82c2c769d3
+run_name: nosy-lark-177
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760145207537
+status: 3
+tags: []
+user_id: runner
