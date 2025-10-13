@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/a4e9d628bfe84e1fa56f5c5303082f24/artifacts
+end_time: 1760318456280
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4e9d628bfe84e1fa56f5c5303082f24
+run_name: luminous-seal-373
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760318456244
+status: 3
+tags: []
+user_id: runner
