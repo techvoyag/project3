@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/295236437cad4bc38c3188431868a7a2/artifacts
+end_time: 1760404559872
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 295236437cad4bc38c3188431868a7a2
+run_name: melodic-fish-844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760404559844
+status: 3
+tags: []
+user_id: runner
