@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/0caf758d8fbf46e685a2dc204dc3e2b6/artifacts
+end_time: 1760491086600
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0caf758d8fbf46e685a2dc204dc3e2b6
+run_name: unruly-mare-969
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760491086566
+status: 3
+tags: []
+user_id: runner
