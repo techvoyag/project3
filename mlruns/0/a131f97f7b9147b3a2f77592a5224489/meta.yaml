@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/a131f97f7b9147b3a2f77592a5224489/artifacts
+end_time: 1760577455468
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a131f97f7b9147b3a2f77592a5224489
+run_name: luminous-lynx-944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760577455428
+status: 3
+tags: []
+user_id: runner
