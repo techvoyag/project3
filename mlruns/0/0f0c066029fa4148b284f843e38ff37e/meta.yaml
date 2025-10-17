@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/0f0c066029fa4148b284f843e38ff37e/artifacts
+end_time: 1760663850408
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f0c066029fa4148b284f843e38ff37e
+run_name: adaptable-moth-577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760663850377
+status: 3
+tags: []
+user_id: runner
