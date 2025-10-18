@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/54357c91e66c4f54acb7ecbec0096185/artifacts
+end_time: 1760750020483
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 54357c91e66c4f54acb7ecbec0096185
+run_name: likeable-steed-811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760750020458
+status: 3
+tags: []
+user_id: runner
