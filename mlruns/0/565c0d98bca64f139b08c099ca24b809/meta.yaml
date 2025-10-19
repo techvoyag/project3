@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/565c0d98bca64f139b08c099ca24b809/artifacts
+end_time: 1760837155107
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 565c0d98bca64f139b08c099ca24b809
+run_name: illustrious-shad-589
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760837155075
+status: 3
+tags: []
+user_id: runner
