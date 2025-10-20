@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/48c4e2cb9aea413cb0a3786cea1fec79/artifacts
+end_time: 1760923391780
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48c4e2cb9aea413cb0a3786cea1fec79
+run_name: valuable-stork-499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760923391750
+status: 3
+tags: []
+user_id: runner
