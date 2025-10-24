@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/e8217b00dc9c4606a086eb3b2363abf4/artifacts
+end_time: 1761268507970
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8217b00dc9c4606a086eb3b2363abf4
+run_name: angry-mole-310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761268507938
+status: 3
+tags: []
+user_id: runner
