@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/c6f47df67e814e2297d1088b4d38fb77/artifacts
+end_time: 1761873612537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6f47df67e814e2297d1088b4d38fb77
+run_name: abundant-rat-308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761873612505
+status: 3
+tags: []
+user_id: runner
