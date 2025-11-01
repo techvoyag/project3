@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/84a683476ae64061bd677222b3cfd7ee/artifacts
+end_time: 1761960253374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84a683476ae64061bd677222b3cfd7ee
+run_name: flawless-tern-202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761960253343
+status: 3
+tags: []
+user_id: runner
