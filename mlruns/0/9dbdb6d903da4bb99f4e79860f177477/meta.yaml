@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/9dbdb6d903da4bb99f4e79860f177477/artifacts
+end_time: 1762046694346
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9dbdb6d903da4bb99f4e79860f177477
+run_name: secretive-carp-548
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762046694319
+status: 3
+tags: []
+user_id: runner
