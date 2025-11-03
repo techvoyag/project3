@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/ff94017e14d14f29b1fadb59facf16a0/artifacts
+end_time: 1762133029254
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff94017e14d14f29b1fadb59facf16a0
+run_name: burly-hog-783
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762133029181
+status: 3
+tags: []
+user_id: runner
