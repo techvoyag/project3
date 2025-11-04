@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/d1b4ce1fe6ea4f40a6c631d88a89d3c0/artifacts
+end_time: 1762219235958
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1b4ce1fe6ea4f40a6c631d88a89d3c0
+run_name: sneaky-midge-108
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762219235927
+status: 3
+tags: []
+user_id: runner
