@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/92834d25e62348f59719b26328509a76/artifacts
+end_time: 1762305716491
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92834d25e62348f59719b26328509a76
+run_name: casual-goat-382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762305716460
+status: 3
+tags: []
+user_id: runner
