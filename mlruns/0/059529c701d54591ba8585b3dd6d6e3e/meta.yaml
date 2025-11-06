@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/059529c701d54591ba8585b3dd6d6e3e/artifacts
+end_time: 1762392085207
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 059529c701d54591ba8585b3dd6d6e3e
+run_name: hilarious-bat-450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762392085176
+status: 3
+tags: []
+user_id: runner
