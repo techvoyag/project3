@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/9bfea5179cb24512aab6c768c8e365a1/artifacts
+end_time: 1762478461872
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bfea5179cb24512aab6c768c8e365a1
+run_name: invincible-robin-273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762478461841
+status: 3
+tags: []
+user_id: runner
