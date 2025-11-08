@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/bef3027409cb47188d351cf3b50493b8/artifacts
+end_time: 1762564626616
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bef3027409cb47188d351cf3b50493b8
+run_name: smiling-carp-367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762564626585
+status: 3
+tags: []
+user_id: runner
