@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/255efe538b2f4c6191d60d520d3b9af8/artifacts
+end_time: 1762737855221
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 255efe538b2f4c6191d60d520d3b9af8
+run_name: secretive-dog-844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762737855190
+status: 3
+tags: []
+user_id: runner
