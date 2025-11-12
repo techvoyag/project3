@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/7f2d4e72a0fa4013a2e181a1b7921868/artifacts
+end_time: 1762910493171
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f2d4e72a0fa4013a2e181a1b7921868
+run_name: stately-toad-246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762910493140
+status: 3
+tags: []
+user_id: runner
