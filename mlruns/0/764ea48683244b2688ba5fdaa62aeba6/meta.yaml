@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/764ea48683244b2688ba5fdaa62aeba6/artifacts
+end_time: 1762996951938
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 764ea48683244b2688ba5fdaa62aeba6
+run_name: likeable-ray-244
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762996951904
+status: 3
+tags: []
+user_id: runner
