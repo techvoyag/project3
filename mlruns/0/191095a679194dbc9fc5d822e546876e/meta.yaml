@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/191095a679194dbc9fc5d822e546876e/artifacts
+end_time: 1763083293373
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 191095a679194dbc9fc5d822e546876e
+run_name: gaudy-elk-586
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763083293342
+status: 3
+tags: []
+user_id: runner
