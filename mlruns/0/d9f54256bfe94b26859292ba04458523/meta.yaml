@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/d9f54256bfe94b26859292ba04458523/artifacts
+end_time: 1763169570380
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9f54256bfe94b26859292ba04458523
+run_name: clumsy-ram-121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763169570349
+status: 3
+tags: []
+user_id: runner
