@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/17c469bf86eb4a6e82849dcd7b7e2825/artifacts
+end_time: 1763428899994
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17c469bf86eb4a6e82849dcd7b7e2825
+run_name: silent-fly-863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763428899962
+status: 3
+tags: []
+user_id: runner
