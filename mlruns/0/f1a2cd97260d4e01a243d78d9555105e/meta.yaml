@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/f1a2cd97260d4e01a243d78d9555105e/artifacts
+end_time: 1763515272188
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1a2cd97260d4e01a243d78d9555105e
+run_name: industrious-bird-493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763515272155
+status: 3
+tags: []
+user_id: runner
