@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/30b66e5790e14bdb9e9da9abe139d916/artifacts
+end_time: 1763774295186
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30b66e5790e14bdb9e9da9abe139d916
+run_name: rebellious-dove-523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763774295154
+status: 3
+tags: []
+user_id: runner
