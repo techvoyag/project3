@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/dbd64353bc7c4107b29bfac32e6ef193/artifacts
+end_time: 1764033696508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbd64353bc7c4107b29bfac32e6ef193
+run_name: clean-flea-259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764033696476
+status: 3
+tags: []
+user_id: runner
