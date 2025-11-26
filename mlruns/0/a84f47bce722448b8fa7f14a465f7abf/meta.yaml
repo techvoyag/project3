@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/a84f47bce722448b8fa7f14a465f7abf/artifacts
+end_time: 1764120122927
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a84f47bce722448b8fa7f14a465f7abf
+run_name: zealous-rat-482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764120122896
+status: 3
+tags: []
+user_id: runner
