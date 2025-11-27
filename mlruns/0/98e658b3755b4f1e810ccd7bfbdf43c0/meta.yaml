@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/98e658b3755b4f1e810ccd7bfbdf43c0/artifacts
+end_time: 1764206443408
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98e658b3755b4f1e810ccd7bfbdf43c0
+run_name: intrigued-owl-758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764206443376
+status: 3
+tags: []
+user_id: runner
