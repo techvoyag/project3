@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/c5488d7e2d654f558336dfbe296ceecd/artifacts
+end_time: 1764292796435
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5488d7e2d654f558336dfbe296ceecd
+run_name: loud-foal-915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764292796403
+status: 3
+tags: []
+user_id: runner
