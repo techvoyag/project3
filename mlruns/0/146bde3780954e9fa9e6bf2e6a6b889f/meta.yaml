@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/146bde3780954e9fa9e6bf2e6a6b889f/artifacts
+end_time: 1764379211487
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 146bde3780954e9fa9e6bf2e6a6b889f
+run_name: orderly-gnu-946
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764379211456
+status: 3
+tags: []
+user_id: runner
