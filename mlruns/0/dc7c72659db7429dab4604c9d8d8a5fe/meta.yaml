@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/dc7c72659db7429dab4604c9d8d8a5fe/artifacts
+end_time: 1764553565462
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc7c72659db7429dab4604c9d8d8a5fe
+run_name: silent-sow-59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764553565430
+status: 3
+tags: []
+user_id: runner
