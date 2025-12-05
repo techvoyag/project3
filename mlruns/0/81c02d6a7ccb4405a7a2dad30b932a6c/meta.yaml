@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/81c02d6a7ccb4405a7a2dad30b932a6c/artifacts
+end_time: 1764897850206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81c02d6a7ccb4405a7a2dad30b932a6c
+run_name: valuable-turtle-312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764897850175
+status: 3
+tags: []
+user_id: runner
