@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/13a6d0d6ed3c4ec78c01e32ee2937e61/artifacts
+end_time: 1764983999206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13a6d0d6ed3c4ec78c01e32ee2937e61
+run_name: resilient-lark-365
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764983999170
+status: 3
+tags: []
+user_id: runner
