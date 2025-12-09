@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/adb70ff436a8443baa50350400b5a861/artifacts
+end_time: 1765243425802
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: adb70ff436a8443baa50350400b5a861
+run_name: amusing-seal-340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765243425765
+status: 3
+tags: []
+user_id: runner
