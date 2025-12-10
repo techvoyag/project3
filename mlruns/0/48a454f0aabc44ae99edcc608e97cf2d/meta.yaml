@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/48a454f0aabc44ae99edcc608e97cf2d/artifacts
+end_time: 1765329934553
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48a454f0aabc44ae99edcc608e97cf2d
+run_name: resilient-slug-878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765329934517
+status: 3
+tags: []
+user_id: runner
