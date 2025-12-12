@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/f22ef2f5d89f411ba0c4387dfe50fd49/artifacts
+end_time: 1765502755890
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f22ef2f5d89f411ba0c4387dfe50fd49
+run_name: big-fawn-739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765502755853
+status: 3
+tags: []
+user_id: runner
