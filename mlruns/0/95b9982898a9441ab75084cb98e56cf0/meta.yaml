@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/95b9982898a9441ab75084cb98e56cf0/artifacts
+end_time: 1765762114791
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95b9982898a9441ab75084cb98e56cf0
+run_name: rare-zebra-993
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765762114753
+status: 3
+tags: []
+user_id: runner
