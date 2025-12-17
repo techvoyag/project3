@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/be937ade0a0547dd92a89b512a0d3e09/artifacts
+end_time: 1765934527845
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be937ade0a0547dd92a89b512a0d3e09
+run_name: gentle-sheep-332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765934527807
+status: 3
+tags: []
+user_id: runner
