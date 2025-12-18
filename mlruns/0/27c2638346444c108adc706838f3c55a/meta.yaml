@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/27c2638346444c108adc706838f3c55a/artifacts
+end_time: 1766020959217
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27c2638346444c108adc706838f3c55a
+run_name: blushing-yak-95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766020959180
+status: 3
+tags: []
+user_id: runner
