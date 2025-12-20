@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/12f9800d783146f399192440023a285f/artifacts
+end_time: 1766193713680
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12f9800d783146f399192440023a285f
+run_name: welcoming-tern-281
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766193713641
+status: 3
+tags: []
+user_id: runner
