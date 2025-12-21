@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/a6da13925ffd4c4598cbff8dd4756f7f/artifacts
+end_time: 1766281202122
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6da13925ffd4c4598cbff8dd4756f7f
+run_name: rare-fly-817
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766281202082
+status: 3
+tags: []
+user_id: runner
