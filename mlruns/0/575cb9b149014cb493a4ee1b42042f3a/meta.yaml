@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/575cb9b149014cb493a4ee1b42042f3a/artifacts
+end_time: 1766453168777
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 575cb9b149014cb493a4ee1b42042f3a
+run_name: rebellious-bass-66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766453168739
+status: 3
+tags: []
+user_id: runner
