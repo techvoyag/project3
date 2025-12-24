@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/388a1751b0ac403f988997974c0e89c0/artifacts
+end_time: 1766539511447
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 388a1751b0ac403f988997974c0e89c0
+run_name: sassy-shrimp-864
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766539511408
+status: 3
+tags: []
+user_id: runner
