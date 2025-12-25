@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/af675b9a6cb9430aa7d436b6710476fa/artifacts
+end_time: 1766625974186
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af675b9a6cb9430aa7d436b6710476fa
+run_name: whimsical-pug-430
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766625974148
+status: 3
+tags: []
+user_id: runner
