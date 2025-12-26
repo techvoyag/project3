@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/6cbd40a8c6444dda8788e41310f6a3eb/artifacts
+end_time: 1766712367932
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6cbd40a8c6444dda8788e41310f6a3eb
+run_name: able-crane-319
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766712367894
+status: 3
+tags: []
+user_id: runner
