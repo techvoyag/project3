@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/0319620a166c430284f2e61c315d086e/artifacts
+end_time: 1766886282736
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0319620a166c430284f2e61c315d086e
+run_name: industrious-fowl-953
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766886282697
+status: 3
+tags: []
+user_id: runner
