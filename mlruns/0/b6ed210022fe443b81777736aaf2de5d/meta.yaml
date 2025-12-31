@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/b6ed210022fe443b81777736aaf2de5d/artifacts
+end_time: 1767144467091
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6ed210022fe443b81777736aaf2de5d
+run_name: skillful-shoat-518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767144467053
+status: 3
+tags: []
+user_id: runner
