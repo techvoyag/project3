@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/bac4bd421ba743439ceaf2c810e13a08/artifacts
+end_time: 1767231936573
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bac4bd421ba743439ceaf2c810e13a08
+run_name: valuable-koi-707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767231936536
+status: 3
+tags: []
+user_id: runner
