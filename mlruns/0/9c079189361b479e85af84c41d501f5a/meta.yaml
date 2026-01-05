@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/9c079189361b479e85af84c41d501f5a/artifacts
+end_time: 1767577542408
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c079189361b479e85af84c41d501f5a
+run_name: salty-finch-411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767577542369
+status: 3
+tags: []
+user_id: runner
