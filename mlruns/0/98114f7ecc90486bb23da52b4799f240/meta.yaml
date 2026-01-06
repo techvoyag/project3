@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/98114f7ecc90486bb23da52b4799f240/artifacts
+end_time: 1767662904445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98114f7ecc90486bb23da52b4799f240
+run_name: unleashed-trout-179
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767662904407
+status: 3
+tags: []
+user_id: runner
