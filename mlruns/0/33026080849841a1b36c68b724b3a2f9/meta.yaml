@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/33026080849841a1b36c68b724b3a2f9/artifacts
+end_time: 1767749310291
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33026080849841a1b36c68b724b3a2f9
+run_name: bold-moth-396
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767749310252
+status: 3
+tags: []
+user_id: runner
