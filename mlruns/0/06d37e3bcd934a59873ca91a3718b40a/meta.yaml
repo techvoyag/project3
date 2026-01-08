@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/06d37e3bcd934a59873ca91a3718b40a/artifacts
+end_time: 1767835741365
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06d37e3bcd934a59873ca91a3718b40a
+run_name: beautiful-turtle-253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767835741327
+status: 3
+tags: []
+user_id: runner
