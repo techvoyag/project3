@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/f01bfa152b374e0a967ea08e1fdf39b3/artifacts
+end_time: 1768008381473
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f01bfa152b374e0a967ea08e1fdf39b3
+run_name: redolent-pig-715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768008381434
+status: 3
+tags: []
+user_id: runner
