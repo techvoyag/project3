@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/519dd4bec9cf4c57ab5cc452d83b4afe/artifacts
+end_time: 1768182174086
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 519dd4bec9cf4c57ab5cc452d83b4afe
+run_name: dashing-turtle-484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768182174048
+status: 3
+tags: []
+user_id: runner
