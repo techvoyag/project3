@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/ad56254f4d9449828f31d30bc30c71b3/artifacts
+end_time: 1768526968382
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad56254f4d9449828f31d30bc30c71b3
+run_name: serious-toad-171
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768526968342
+status: 3
+tags: []
+user_id: runner
