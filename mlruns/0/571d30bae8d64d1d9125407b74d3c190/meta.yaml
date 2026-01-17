@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/571d30bae8d64d1d9125407b74d3c190/artifacts
+end_time: 1768613144020
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 571d30bae8d64d1d9125407b74d3c190
+run_name: gregarious-snake-1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768613143982
+status: 3
+tags: []
+user_id: runner
