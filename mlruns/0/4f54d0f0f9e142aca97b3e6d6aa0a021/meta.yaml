@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/4f54d0f0f9e142aca97b3e6d6aa0a021/artifacts
+end_time: 1768787002037
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f54d0f0f9e142aca97b3e6d6aa0a021
+run_name: youthful-lamb-927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768787002006
+status: 3
+tags: []
+user_id: runner
