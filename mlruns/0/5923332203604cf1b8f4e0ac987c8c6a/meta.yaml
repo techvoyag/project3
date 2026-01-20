@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/5923332203604cf1b8f4e0ac987c8c6a/artifacts
+end_time: 1768872513576
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5923332203604cf1b8f4e0ac987c8c6a
+run_name: spiffy-skink-9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768872513537
+status: 3
+tags: []
+user_id: runner
