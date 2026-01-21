@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/d9fdbd3918604ab6a896ed21f1a8cf92/artifacts
+end_time: 1768959710497
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9fdbd3918604ab6a896ed21f1a8cf92
+run_name: nervous-crow-628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768959710457
+status: 3
+tags: []
+user_id: runner
