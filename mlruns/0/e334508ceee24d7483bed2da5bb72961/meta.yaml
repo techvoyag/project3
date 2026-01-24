@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/e334508ceee24d7483bed2da5bb72961/artifacts
+end_time: 1769218023880
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e334508ceee24d7483bed2da5bb72961
+run_name: salty-shoat-195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769218023840
+status: 3
+tags: []
+user_id: runner
