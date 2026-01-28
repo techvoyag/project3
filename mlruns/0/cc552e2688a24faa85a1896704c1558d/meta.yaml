@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/cc552e2688a24faa85a1896704c1558d/artifacts
+end_time: 1769564462757
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc552e2688a24faa85a1896704c1558d
+run_name: clumsy-cat-965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769564462720
+status: 3
+tags: []
+user_id: runner
