@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/39e491b5cd674704a072aa984e26253e/artifacts
+end_time: 1769651559690
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39e491b5cd674704a072aa984e26253e
+run_name: gifted-pug-307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769651559651
+status: 3
+tags: []
+user_id: runner
