@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/8a83df0c14e44e008246a2bbda3894db/artifacts
+end_time: 1769738002217
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a83df0c14e44e008246a2bbda3894db
+run_name: gregarious-kit-20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769738002179
+status: 3
+tags: []
+user_id: runner
