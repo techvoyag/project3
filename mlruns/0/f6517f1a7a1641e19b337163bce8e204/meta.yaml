@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/f6517f1a7a1641e19b337163bce8e204/artifacts
+end_time: 1769824164631
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6517f1a7a1641e19b337163bce8e204
+run_name: secretive-shad-428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769824164593
+status: 3
+tags: []
+user_id: runner
