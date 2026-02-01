@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/eb62952028ed463583dbb644a7aad31f/artifacts
+end_time: 1769911705650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb62952028ed463583dbb644a7aad31f
+run_name: exultant-cub-421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769911705612
+status: 3
+tags: []
+user_id: runner
