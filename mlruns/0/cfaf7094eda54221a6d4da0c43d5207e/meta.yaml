@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/cfaf7094eda54221a6d4da0c43d5207e/artifacts
+end_time: 1770083957579
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfaf7094eda54221a6d4da0c43d5207e
+run_name: zealous-sloth-233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770083957540
+status: 3
+tags: []
+user_id: runner
