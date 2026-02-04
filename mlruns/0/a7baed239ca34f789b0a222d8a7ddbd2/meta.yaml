@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/a7baed239ca34f789b0a222d8a7ddbd2/artifacts
+end_time: 1770170038801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7baed239ca34f789b0a222d8a7ddbd2
+run_name: charming-lynx-495
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770170038762
+status: 3
+tags: []
+user_id: runner
