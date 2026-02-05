@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/8f5960211d06411296f758c0d3263e5d/artifacts
+end_time: 1770256553558
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f5960211d06411296f758c0d3263e5d
+run_name: marvelous-robin-610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770256553519
+status: 3
+tags: []
+user_id: runner
