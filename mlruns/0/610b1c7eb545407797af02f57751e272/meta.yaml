@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/610b1c7eb545407797af02f57751e272/artifacts
+end_time: 1770342898115
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 610b1c7eb545407797af02f57751e272
+run_name: bright-jay-209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770342898076
+status: 3
+tags: []
+user_id: runner
