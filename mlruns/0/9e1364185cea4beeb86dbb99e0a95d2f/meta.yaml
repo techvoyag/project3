@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/9e1364185cea4beeb86dbb99e0a95d2f/artifacts
+end_time: 1770429110061
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e1364185cea4beeb86dbb99e0a95d2f
+run_name: monumental-fox-423
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770429110023
+status: 3
+tags: []
+user_id: runner
