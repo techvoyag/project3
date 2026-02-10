@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/f5ca1c90a98a44e88e5612a3464522db/artifacts
+end_time: 1770689541240
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5ca1c90a98a44e88e5612a3464522db
+run_name: silent-bear-360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770689541201
+status: 3
+tags: []
+user_id: runner
