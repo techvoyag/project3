@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/0c606f59c2e24c7ab0b4d933ac545cb7/artifacts
+end_time: 1770775713562
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c606f59c2e24c7ab0b4d933ac545cb7
+run_name: zealous-doe-240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770775713524
+status: 3
+tags: []
+user_id: runner
