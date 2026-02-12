@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/65e82cb42030466fb170dfff89b9a168/artifacts
+end_time: 1770861702827
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65e82cb42030466fb170dfff89b9a168
+run_name: bedecked-robin-402
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770861702788
+status: 3
+tags: []
+user_id: runner
