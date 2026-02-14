@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/49c07ec6ad004753be9bd0ba9baf7ce4/artifacts
+end_time: 1771034005722
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49c07ec6ad004753be9bd0ba9baf7ce4
+run_name: marvelous-midge-367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771034005678
+status: 3
+tags: []
+user_id: runner
