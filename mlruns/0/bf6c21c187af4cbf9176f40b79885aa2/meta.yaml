@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/bf6c21c187af4cbf9176f40b79885aa2/artifacts
+end_time: 1771121058497
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf6c21c187af4cbf9176f40b79885aa2
+run_name: nosy-hawk-742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771121058454
+status: 3
+tags: []
+user_id: runner
