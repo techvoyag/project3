@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/435c9066b113448b83ce21afc5790762/artifacts
+end_time: 1771293472741
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 435c9066b113448b83ce21afc5790762
+run_name: delightful-cub-438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771293472703
+status: 3
+tags: []
+user_id: runner
