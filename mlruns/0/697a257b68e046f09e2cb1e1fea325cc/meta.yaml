@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/697a257b68e046f09e2cb1e1fea325cc/artifacts
+end_time: 1771380086434
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 697a257b68e046f09e2cb1e1fea325cc
+run_name: polite-goose-317
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771380086391
+status: 3
+tags: []
+user_id: runner
