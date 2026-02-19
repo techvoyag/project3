@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/bf2722eada5f430487fb43a2c9bb268c/artifacts
+end_time: 1771466424264
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf2722eada5f430487fb43a2c9bb268c
+run_name: ambitious-hog-588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771466424222
+status: 3
+tags: []
+user_id: runner
