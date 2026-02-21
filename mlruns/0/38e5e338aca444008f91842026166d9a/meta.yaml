@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/38e5e338aca444008f91842026166d9a/artifacts
+end_time: 1771638675449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38e5e338aca444008f91842026166d9a
+run_name: vaunted-crane-405
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771638675411
+status: 3
+tags: []
+user_id: runner
