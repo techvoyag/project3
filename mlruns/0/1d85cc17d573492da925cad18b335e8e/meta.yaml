@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/1d85cc17d573492da925cad18b335e8e/artifacts
+end_time: 1771725592449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d85cc17d573492da925cad18b335e8e
+run_name: marvelous-fox-184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771725592412
+status: 3
+tags: []
+user_id: runner
