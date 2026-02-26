@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/a859d1fc09ae4485ac819eb37a1357e8/artifacts
+end_time: 1772070915446
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a859d1fc09ae4485ac819eb37a1357e8
+run_name: glamorous-asp-308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772070915407
+status: 3
+tags: []
+user_id: runner
