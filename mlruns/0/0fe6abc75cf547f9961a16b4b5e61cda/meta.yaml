@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/0fe6abc75cf547f9961a16b4b5e61cda/artifacts
+end_time: 1772157240126
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0fe6abc75cf547f9961a16b4b5e61cda
+run_name: burly-zebra-780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772157240087
+status: 3
+tags: []
+user_id: runner
