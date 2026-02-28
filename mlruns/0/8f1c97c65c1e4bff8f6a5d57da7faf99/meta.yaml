@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/8f1c97c65c1e4bff8f6a5d57da7faf99/artifacts
+end_time: 1772243115715
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f1c97c65c1e4bff8f6a5d57da7faf99
+run_name: illustrious-gnu-935
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772243115674
+status: 3
+tags: []
+user_id: runner
