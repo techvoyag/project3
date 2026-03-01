@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/97d45a45f690434c84679c1f250aa1ec/artifacts
+end_time: 1772330800618
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97d45a45f690434c84679c1f250aa1ec
+run_name: merciful-ape-38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772330800578
+status: 3
+tags: []
+user_id: runner
