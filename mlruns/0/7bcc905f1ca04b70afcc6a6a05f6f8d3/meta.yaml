@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/7bcc905f1ca04b70afcc6a6a05f6f8d3/artifacts
+end_time: 1772416642036
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7bcc905f1ca04b70afcc6a6a05f6f8d3
+run_name: clean-turtle-241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772416641996
+status: 3
+tags: []
+user_id: runner
