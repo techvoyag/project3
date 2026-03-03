@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/10c532af12af4897b08072d3edc99541/artifacts
+end_time: 1772503166402
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10c532af12af4897b08072d3edc99541
+run_name: wistful-ram-715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772503166363
+status: 3
+tags: []
+user_id: runner
