@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/68ce5b46bd3e4987882f63de4ced1880/artifacts
+end_time: 1772589195165
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 68ce5b46bd3e4987882f63de4ced1880
+run_name: dazzling-seal-257
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772589195126
+status: 3
+tags: []
+user_id: runner
