@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/26e5cf5b32df4950bb9f77bf08a4adf8/artifacts
+end_time: 1772675783353
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26e5cf5b32df4950bb9f77bf08a4adf8
+run_name: dapper-sloth-545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772675783271
+status: 3
+tags: []
+user_id: runner
