@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/047d64c0da7f4c7c84758df98a2ede92/artifacts
+end_time: 1772762238140
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 047d64c0da7f4c7c84758df98a2ede92
+run_name: luminous-snake-674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772762238084
+status: 3
+tags: []
+user_id: runner
