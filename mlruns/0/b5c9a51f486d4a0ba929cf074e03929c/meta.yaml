@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/b5c9a51f486d4a0ba929cf074e03929c/artifacts
+end_time: 1772848161787
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5c9a51f486d4a0ba929cf074e03929c
+run_name: suave-penguin-796
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772848161756
+status: 3
+tags: []
+user_id: runner
