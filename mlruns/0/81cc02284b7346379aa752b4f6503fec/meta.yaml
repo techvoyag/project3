@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/81cc02284b7346379aa752b4f6503fec/artifacts
+end_time: 1772935077646
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81cc02284b7346379aa752b4f6503fec
+run_name: sassy-cow-349
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772935077607
+status: 3
+tags: []
+user_id: runner
