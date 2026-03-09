@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/87fd712e59124d99a00f0d2c17df78c9/artifacts
+end_time: 1773021543897
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87fd712e59124d99a00f0d2c17df78c9
+run_name: monumental-sloth-178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773021543858
+status: 3
+tags: []
+user_id: runner
