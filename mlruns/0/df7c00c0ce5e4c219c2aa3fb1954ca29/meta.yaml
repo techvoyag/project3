@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/df7c00c0ce5e4c219c2aa3fb1954ca29/artifacts
+end_time: 1773280636593
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df7c00c0ce5e4c219c2aa3fb1954ca29
+run_name: worried-ram-332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773280636553
+status: 3
+tags: []
+user_id: runner
