@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/e237a5e374de4712a128d731a6544eba/artifacts
+end_time: 1773366923530
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e237a5e374de4712a128d731a6544eba
+run_name: rumbling-robin-815
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773366923491
+status: 3
+tags: []
+user_id: runner
