@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/516700aa073f431c881247c93df9c464/artifacts
+end_time: 1773627080879
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 516700aa073f431c881247c93df9c464
+run_name: popular-bat-34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773627080840
+status: 3
+tags: []
+user_id: runner
