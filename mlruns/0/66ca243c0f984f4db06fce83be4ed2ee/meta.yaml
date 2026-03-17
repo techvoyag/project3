@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/66ca243c0f984f4db06fce83be4ed2ee/artifacts
+end_time: 1773712705700
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66ca243c0f984f4db06fce83be4ed2ee
+run_name: languid-perch-968
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773712705660
+status: 3
+tags: []
+user_id: runner
