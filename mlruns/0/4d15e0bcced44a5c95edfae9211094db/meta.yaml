@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/4d15e0bcced44a5c95edfae9211094db/artifacts
+end_time: 1773799352159
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d15e0bcced44a5c95edfae9211094db
+run_name: persistent-shad-821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773799352120
+status: 3
+tags: []
+user_id: runner
