@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/bc6a014be32641d5a252e990ea2486fb/artifacts
+end_time: 1773971840665
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc6a014be32641d5a252e990ea2486fb
+run_name: persistent-toad-372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773971840624
+status: 3
+tags: []
+user_id: runner
