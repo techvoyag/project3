@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/08327c4fab8f42c8a6070b290082c74f/artifacts
+end_time: 1774057883234
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08327c4fab8f42c8a6070b290082c74f
+run_name: legendary-shad-183
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774057883201
+status: 3
+tags: []
+user_id: runner
