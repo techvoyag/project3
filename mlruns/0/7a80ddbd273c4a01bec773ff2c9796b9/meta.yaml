@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/7a80ddbd273c4a01bec773ff2c9796b9/artifacts
+end_time: 1774145000903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a80ddbd273c4a01bec773ff2c9796b9
+run_name: puzzled-fox-953
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774145000864
+status: 3
+tags: []
+user_id: runner
