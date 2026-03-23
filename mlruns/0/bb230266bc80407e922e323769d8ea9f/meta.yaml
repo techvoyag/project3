@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/bb230266bc80407e922e323769d8ea9f/artifacts
+end_time: 1774231460662
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb230266bc80407e922e323769d8ea9f
+run_name: redolent-quail-100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774231460623
+status: 3
+tags: []
+user_id: runner
