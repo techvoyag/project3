@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/a8bf9de5ef7c47c9abdff09da7a8354c/artifacts
+end_time: 1774663228878
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8bf9de5ef7c47c9abdff09da7a8354c
+run_name: bittersweet-cub-198
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774663228836
+status: 3
+tags: []
+user_id: runner
