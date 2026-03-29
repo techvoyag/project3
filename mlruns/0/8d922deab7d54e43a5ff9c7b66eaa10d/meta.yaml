@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/8d922deab7d54e43a5ff9c7b66eaa10d/artifacts
+end_time: 1774750299348
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d922deab7d54e43a5ff9c7b66eaa10d
+run_name: clean-ray-239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774750299306
+status: 3
+tags: []
+user_id: runner
