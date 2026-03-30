@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/bda7fb881af84e41b1f50e5a51a526ee/artifacts
+end_time: 1774836828241
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bda7fb881af84e41b1f50e5a51a526ee
+run_name: legendary-finch-291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774836828204
+status: 3
+tags: []
+user_id: runner
