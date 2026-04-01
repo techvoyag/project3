@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/5beabc51bdad47eca216f34d37263e04/artifacts
+end_time: 1775010410913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5beabc51bdad47eca216f34d37263e04
+run_name: unique-rat-261
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775010410872
+status: 3
+tags: []
+user_id: runner
