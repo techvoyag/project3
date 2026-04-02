@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/7186cf02d28545a280b9d7d96f3a0768/artifacts
+end_time: 1775095551191
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7186cf02d28545a280b9d7d96f3a0768
+run_name: adaptable-shrimp-686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775095551151
+status: 3
+tags: []
+user_id: runner
