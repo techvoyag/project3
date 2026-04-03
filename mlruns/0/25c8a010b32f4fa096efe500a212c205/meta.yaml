@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/25c8a010b32f4fa096efe500a212c205/artifacts
+end_time: 1775182071029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25c8a010b32f4fa096efe500a212c205
+run_name: invincible-crow-797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775182070987
+status: 3
+tags: []
+user_id: runner
