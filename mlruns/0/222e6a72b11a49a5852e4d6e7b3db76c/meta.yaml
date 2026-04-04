@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/222e6a72b11a49a5852e4d6e7b3db76c/artifacts
+end_time: 1775267999734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 222e6a72b11a49a5852e4d6e7b3db76c
+run_name: clean-smelt-151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775267999692
+status: 3
+tags: []
+user_id: runner
