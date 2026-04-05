@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/75f98e3ed98049758a16c133ef70195b/artifacts
+end_time: 1775355221125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75f98e3ed98049758a16c133ef70195b
+run_name: monumental-hog-778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775355221084
+status: 3
+tags: []
+user_id: runner
