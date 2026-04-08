@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/860088761b634d36983b25d6b953afd0/artifacts
+end_time: 1775614253336
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 860088761b634d36983b25d6b953afd0
+run_name: sincere-foal-205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775614253308
+status: 3
+tags: []
+user_id: runner
