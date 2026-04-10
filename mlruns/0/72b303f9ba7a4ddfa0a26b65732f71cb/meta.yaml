@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/72b303f9ba7a4ddfa0a26b65732f71cb/artifacts
+end_time: 1775787868861
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72b303f9ba7a4ddfa0a26b65732f71cb
+run_name: adorable-croc-208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775787868821
+status: 3
+tags: []
+user_id: runner
