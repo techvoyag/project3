@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/10dc2d0d661242cf9f632de0f1824417/artifacts
+end_time: 1775960767860
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10dc2d0d661242cf9f632de0f1824417
+run_name: bittersweet-hen-122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775960767820
+status: 3
+tags: []
+user_id: runner
