@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/e0de198484bb4dd092c60366d0f614b9/artifacts
+end_time: 1776047455454
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0de198484bb4dd092c60366d0f614b9
+run_name: magnificent-ray-189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776047455416
+status: 3
+tags: []
+user_id: runner
