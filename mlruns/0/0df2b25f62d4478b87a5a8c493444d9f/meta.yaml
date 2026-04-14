@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/0df2b25f62d4478b87a5a8c493444d9f/artifacts
+end_time: 1776133494392
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0df2b25f62d4478b87a5a8c493444d9f
+run_name: exultant-steed-371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776133494352
+status: 3
+tags: []
+user_id: runner
