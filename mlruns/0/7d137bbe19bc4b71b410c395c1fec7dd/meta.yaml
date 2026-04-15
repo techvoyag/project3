@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/7d137bbe19bc4b71b410c395c1fec7dd/artifacts
+end_time: 1776219259522
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d137bbe19bc4b71b410c395c1fec7dd
+run_name: chill-vole-13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776219259480
+status: 3
+tags: []
+user_id: runner
