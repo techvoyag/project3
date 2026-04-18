@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/748e6204e8cc465ebc08093748149433/artifacts
+end_time: 1776478137108
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 748e6204e8cc465ebc08093748149433
+run_name: rare-cat-462
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776478137075
+status: 3
+tags: []
+user_id: runner
