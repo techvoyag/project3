@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/0256c12627284d71aa676814213dd988/artifacts
+end_time: 1776565814085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0256c12627284d71aa676814213dd988
+run_name: righteous-toad-216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776565814053
+status: 3
+tags: []
+user_id: runner
