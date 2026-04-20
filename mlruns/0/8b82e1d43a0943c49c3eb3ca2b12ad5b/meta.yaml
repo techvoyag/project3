@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/8b82e1d43a0943c49c3eb3ca2b12ad5b/artifacts
+end_time: 1776652248003
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b82e1d43a0943c49c3eb3ca2b12ad5b
+run_name: bright-shoat-351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776652247971
+status: 3
+tags: []
+user_id: runner
