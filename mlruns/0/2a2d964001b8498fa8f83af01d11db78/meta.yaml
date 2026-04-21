@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/2a2d964001b8498fa8f83af01d11db78/artifacts
+end_time: 1776738429590
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a2d964001b8498fa8f83af01d11db78
+run_name: upbeat-toad-619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776738429550
+status: 3
+tags: []
+user_id: runner
