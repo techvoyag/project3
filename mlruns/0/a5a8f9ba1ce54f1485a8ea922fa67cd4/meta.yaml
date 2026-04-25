@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/a5a8f9ba1ce54f1485a8ea922fa67cd4/artifacts
+end_time: 1777083079595
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5a8f9ba1ce54f1485a8ea922fa67cd4
+run_name: abrasive-slug-117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777083079554
+status: 3
+tags: []
+user_id: runner
