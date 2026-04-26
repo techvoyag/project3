@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/a9d68086dcc84af9bdf0c74902054b2f/artifacts
+end_time: 1777170844862
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9d68086dcc84af9bdf0c74902054b2f
+run_name: redolent-turtle-566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777170844834
+status: 3
+tags: []
+user_id: runner
