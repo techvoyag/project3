@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/9f270a0298be47458956a85746c9edfc/artifacts
+end_time: 1777344203103
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f270a0298be47458956a85746c9edfc
+run_name: zealous-fly-406
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777344203062
+status: 3
+tags: []
+user_id: runner
