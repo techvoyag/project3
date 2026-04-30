@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/afab843cd99b493c9f1afe548f55bdda/artifacts
+end_time: 1777517066060
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: afab843cd99b493c9f1afe548f55bdda
+run_name: unequaled-ox-328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777517066023
+status: 3
+tags: []
+user_id: runner
