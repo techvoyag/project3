@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/b976d839939c49c69a2b2314a9b4647b/artifacts
+end_time: 1777603905921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b976d839939c49c69a2b2314a9b4647b
+run_name: secretive-seal-31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777603905832
+status: 3
+tags: []
+user_id: runner
