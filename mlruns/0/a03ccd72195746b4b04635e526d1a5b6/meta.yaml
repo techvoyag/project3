@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/a03ccd72195746b4b04635e526d1a5b6/artifacts
+end_time: 1778035136351
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a03ccd72195746b4b04635e526d1a5b6
+run_name: industrious-kite-272
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778035136322
+status: 3
+tags: []
+user_id: runner
