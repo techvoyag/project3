@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/d9a1b1d8e9884295aad083eca495cdeb/artifacts
+end_time: 1778208341840
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9a1b1d8e9884295aad083eca495cdeb
+run_name: zealous-bat-679
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778208341811
+status: 3
+tags: []
+user_id: runner
