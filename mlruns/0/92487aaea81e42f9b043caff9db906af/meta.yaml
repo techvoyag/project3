@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/92487aaea81e42f9b043caff9db906af/artifacts
+end_time: 1778294405244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92487aaea81e42f9b043caff9db906af
+run_name: adaptable-skink-835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778294405204
+status: 3
+tags: []
+user_id: runner
