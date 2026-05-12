@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/64c00a667bfe434284fab29a8f5df879/artifacts
+end_time: 1778554005877
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64c00a667bfe434284fab29a8f5df879
+run_name: melodic-penguin-916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778554005837
+status: 3
+tags: []
+user_id: runner
