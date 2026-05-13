@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/063b073e3c124ae499e96ee9530ad5e4/artifacts
+end_time: 1778640730672
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 063b073e3c124ae499e96ee9530ad5e4
+run_name: resilient-wasp-32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778640730632
+status: 3
+tags: []
+user_id: runner
