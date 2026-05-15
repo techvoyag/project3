@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/a94d303f36914a2d82ccbcad469d9ec6/artifacts
+end_time: 1778813760030
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a94d303f36914a2d82ccbcad469d9ec6
+run_name: auspicious-tern-318
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778813759994
+status: 3
+tags: []
+user_id: runner
