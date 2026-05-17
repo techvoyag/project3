@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/d96df3f76d9f4a41863bbd3aea35b03e/artifacts
+end_time: 1778986339065
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d96df3f76d9f4a41863bbd3aea35b03e
+run_name: stylish-fowl-869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778986339021
+status: 3
+tags: []
+user_id: runner
