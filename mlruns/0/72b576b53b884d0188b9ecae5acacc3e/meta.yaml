@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/72b576b53b884d0188b9ecae5acacc3e/artifacts
+end_time: 1779074975306
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72b576b53b884d0188b9ecae5acacc3e
+run_name: sincere-chimp-900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779074975267
+status: 3
+tags: []
+user_id: runner
