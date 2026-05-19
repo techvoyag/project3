@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/8530c1f1d2c94b52befc7d2f75d9b414/artifacts
+end_time: 1779159486239
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8530c1f1d2c94b52befc7d2f75d9b414
+run_name: caring-moose-5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779159486201
+status: 3
+tags: []
+user_id: runner
