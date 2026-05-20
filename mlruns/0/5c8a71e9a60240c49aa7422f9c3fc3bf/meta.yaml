@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/5c8a71e9a60240c49aa7422f9c3fc3bf/artifacts
+end_time: 1779245910033
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c8a71e9a60240c49aa7422f9c3fc3bf
+run_name: grandiose-moth-695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779245909993
+status: 3
+tags: []
+user_id: runner
