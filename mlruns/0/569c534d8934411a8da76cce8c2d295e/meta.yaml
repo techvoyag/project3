@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/569c534d8934411a8da76cce8c2d295e/artifacts
+end_time: 1779420497981
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 569c534d8934411a8da76cce8c2d295e
+run_name: nimble-fawn-733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779420497938
+status: 3
+tags: []
+user_id: runner
