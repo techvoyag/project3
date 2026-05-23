@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/a5aeaf5dfd684232bdcaba40b472d003/artifacts
+end_time: 1779504457338
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5aeaf5dfd684232bdcaba40b472d003
+run_name: monumental-lark-943
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779504457308
+status: 3
+tags: []
+user_id: runner
