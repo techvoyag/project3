@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/f1172696052f4eb7965f8e4c862211bd/artifacts
+end_time: 1779593078792
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1172696052f4eb7965f8e4c862211bd
+run_name: stylish-bird-618
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779593078701
+status: 3
+tags: []
+user_id: runner
