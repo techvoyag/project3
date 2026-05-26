@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/90cc89441c4f4be18f9180a62504e295/artifacts
+end_time: 1779764124426
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90cc89441c4f4be18f9180a62504e295
+run_name: merciful-crane-23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779764124382
+status: 3
+tags: []
+user_id: runner
