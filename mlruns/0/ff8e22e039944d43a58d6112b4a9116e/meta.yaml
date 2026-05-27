@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/ff8e22e039944d43a58d6112b4a9116e/artifacts
+end_time: 1779852904107
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff8e22e039944d43a58d6112b4a9116e
+run_name: sedate-steed-482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779852904065
+status: 3
+tags: []
+user_id: runner
