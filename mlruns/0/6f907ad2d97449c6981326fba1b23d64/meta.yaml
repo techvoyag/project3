@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/6f907ad2d97449c6981326fba1b23d64/artifacts
+end_time: 1780109489351
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f907ad2d97449c6981326fba1b23d64
+run_name: flawless-lamb-349
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780109489310
+status: 3
+tags: []
+user_id: runner
