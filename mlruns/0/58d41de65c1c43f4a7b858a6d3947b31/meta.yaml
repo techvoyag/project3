@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Documents/7%20semester/MLops/project/mlruns/0/58d41de65c1c43f4a7b858a6d3947b31/artifacts
+end_time: 1780285871828
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 58d41de65c1c43f4a7b858a6d3947b31
+run_name: wistful-cat-999
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780285871787
+status: 3
+tags: []
+user_id: runner
